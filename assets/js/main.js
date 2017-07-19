@@ -1,33 +1,17 @@
 // Listen for form submit
-document.getElementById('myForm').addEventListener('submit', saveBookmark);
+// document.getElementById('myForm').addEventListener('submit', saveBookmark);
 
 // 2017 planets retrograde data 
-var planetData = {
-    mercury: {
-        
-    },
-    venus: {
-
-    },
-    mars: {
-
-    },
-    jupiter: {
-
-    },
-    saturn: {
-
-    },
-    uranus: {
-
-    },
-    neptune: {
-
-    },
-    pluto: {
-
-    }
+var mercuryData = {
+    direction: ["Direct", "Leaves RX Zone"],
+    degree: "28° 51\'",
+    sign: "Sagittarius",
+    month: "01",
+    date: "08",
+    time: "04:40:00 AM"
 }
+
+console.log(mercuryData.direction[1]);
 
 // Fetch current retrograde data
 function fetchRetrograde(){
@@ -48,12 +32,11 @@ function byDateResults(){
 }
 
 // Validate form
-function validateForm(date, planet){
-    if(!date || !planet){
-        alert('Please fill in the form.');
-        return false;
+// function validateForm(date, planet){
+//     if(!date || !planet){
+//         alert('Please fill in the form.');
+//         return false;
 
-    // Regex needed?
-    
-    return true;
-}
+//     // Regex needed?   
+//     return true;
+// }
