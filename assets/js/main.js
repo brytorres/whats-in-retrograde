@@ -3,40 +3,40 @@
 
 // Display current time and date as [xx-xx-xxxx]
 var currentDate = new Date();
-var currentDateMonth = currentDate.getUTCMonth();
+var currentDateMonth = currentDate.getMonth();
 var monthNum = parseInt(currentDateMonth);
 var currentDateDay = currentDate.getUTCDate();
 var currentDateYear = currentDate.getUTCFullYear();
-var currentDateClean = currentDateMonth + '-' + currentDateDay + '-' + currentDateYear;
+var currentDateClean = currentDateMonth + '-' + currentDateDay + '-' + currentDateYear; 
+
 
 // 2017 planets retrograde data 
 // var retrograde = {}
 
 // Month number to string
 function numToMon(monthNum){
-    console.log(monthNum);
     var month = "";
-    if(monthNum == 01){
+    if(monthNum == 00){
         var month = 'jan';
-    } else if(monthNum == 02){
+    } else if(monthNum == 01){
         var month = 'feb';
-    } else if(monthNum == 03){
+    } else if(monthNum == 02){
         var month = 'mar';
-    } else if(monthNum == 04){
+    } else if(monthNum == 03){
         var month = 'apr';
-    } else if(monthNum == 05){
+    } else if(monthNum == 04){
         var month = 'may';
-    } else if(monthNum == 06){
+    } else if(monthNum == 05){
         var month = 'jun';
-    } else if(monthNum == 07){
+    } else if(monthNum == 06){
         var month = 'jul';
-    } else if(monthNum == 08){
+    } else if(monthNum == 07){
         var month = 'aug';
-    } else if(monthNum == 09){
+    } else if(monthNum == 08){
         var month = 'sep';
-    } else if(monthNum == 10){
+    } else if(monthNum == 09){
         var month = 'oct';
-    } else if(monthNum == 11){
+    } else if(monthNum == 10){
         var month = 'nov';
     } else {
         var month = 'dec';
@@ -45,7 +45,8 @@ function numToMon(monthNum){
     return month;
 }
 
-console.log(numToMon(monthNum));
+// Generate todays date into string for comparison
+var today = numToMon(monthNum) + currentDateDay;
 
 // console.log(mercuryData.direction[1]);
 
