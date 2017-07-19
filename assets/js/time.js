@@ -1,6 +1,7 @@
 // Display current time and date as [xx-xx-xxxx]
 var currentDate = new Date();
 var currentDateMonth = currentDate.getUTCMonth();
+var monthNum = currentDateMonth;
 var currentDateDay = currentDate.getUTCDate();
 var currentDateYear = currentDate.getUTCFullYear();
 var currentDateClean = currentDateMonth + '-' + currentDateDay + '-' + currentDateYear;
@@ -35,4 +36,4 @@ function timeConvert(year, month, date, hour, minutes, seconds){
     return console.log(convertedTime);
 }
 
-timeConvert(2017, 3, 10, 6, 14, 00);
+// timeConvert(2017, 3, 10, 6, 14, 00);
