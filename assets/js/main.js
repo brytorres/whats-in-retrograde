@@ -35,14 +35,18 @@ var today = numToMon(monthNum) + currentDateDay;
 
 
 // Fetch current retrograde data
-function fetchRetrograde(){
+function fetchRetrograde(date){
     // Get Output ID
     var currentlyRetrograde = document.getElementById('currentlyRetrograde');
-    // var todaysDate = today;
-    // console.log(dateInfo.jan01)
+    var todayInfo = document.getElementById('todayInfo');
+
+    // Display the dates info
+    todayInfo.innerHTML = '<h4>' + currentDateClean + '</h4>';
+
     // Build Output
     currentlyRetrograde.innerHTML = '';
     console.log(today);
+
     // Iterate through all dates
     for(var key in dateInfo){
         if (key == today){
@@ -57,6 +61,31 @@ function fetchRetrograde(){
             var minutes = dateInfo[key].minutes;
 
             for(var i = 0; i < planets.length;i++){
+                
+                // Generates planet direction image tag based on direction string
+                var directionToday = direction[i];
+                if(directionToday === 'Entering RX Zone'){
+                    var directionImg = '<img src="/assets/img/enters.png" alt="Entering RX Zone">';
+                }
+                if(directionToday === 'In RX Zone'){
+                    var directionImg = '<img src="/assets/img/inZone.png" alt="Entering RX Zone">';
+                }
+                if(directionToday === 'Stationary Retrograde'){
+                    var directionImg = '<img src="/assets/img/stationaryRetro.png" alt="Entering RX Zone">';
+                }
+                if(directionToday === 'Retrograde'){
+                    var directionImg = '<img src="/assets/img/retro.png" alt="Entering RX Zone">';
+                }
+                if(directionToday === 'Stationary Direct'){
+                    var directionImg = '<img src="/assets/img/stationaryDirect.png" alt="Entering RX Zone">';
+                }
+                if(directionToday === 'Direct'){
+                    var directionImg = '<img src="/assets/img/direct.png" alt="Entering RX Zone">';
+                }
+                if(directionToday === 'Leaves RX Zone'){
+                    var directionImg = '<img src="/assets/img/leaving.png" alt="Entering RX Zone">';
+                }
+                console.log(directionImg);
 
                 if(typeof(time[i] == undefined)){
                     var time = ['No Event Today', 'No Event Today', 'No Event Today', 'No Event Today', 'No Event Today', 'No Event Today', 'No Event Today', 'No Event Today', 'No Event Today'];
@@ -69,7 +98,7 @@ function fetchRetrograde(){
                 }
 
             currentlyRetrograde.innerHTML +=    '<div class="well">' +
-                                                '<h3>' +planets[i]+ '</h3>' + 
+                                                '<h3 class="planet">' +planets[i]+ '</h3>' + 
                                                 '<table style="width: 100%; font-size: 14px;color: white;">' +
                                                     '<tr>' +
                                                         '<th>' +'DIRECTION'+ '</th>' +
@@ -79,7 +108,7 @@ function fetchRetrograde(){
                                                         '<th>' +'MINUTES'+ '</th>' +
                                                     '</tr>' +
                                                     '<tr>' +
-                                                        '<td>' +direction[i]+ '</td>' +
+                                                        '<td>' +direction[i]+ '<br>' +directionImg+ '</td>' +
                                                         '<td>' +time[i]+ '</td>'  +
                                                         '<td>' +degrees[i]+ '</td>' +
                                                         '<td>' +sign[i]+ '</td>' +
