@@ -1582,7 +1582,7 @@ var dateInfo = {
         minutes: [],
     },
     jul10: {
-        planets: ['Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto',]
+        planets: ['Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto',],
         direction: ['Direct', 'Retrograde', 'In RX Zone', 'Retrograde', 'Retrograde'],
         time: [],
         sign: [],

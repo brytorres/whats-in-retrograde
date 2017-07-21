@@ -32,7 +32,7 @@ function numToMon(monthNum){
 
 // Generate todays date into string for comparison
 var today = numToMon(monthNum) + currentDateDay;
-console.log(today);
+
 
 // Fetch current retrograde data
 function fetchRetrograde(){
@@ -42,31 +42,33 @@ function fetchRetrograde(){
     // console.log(dateInfo.jan01)
     // Build Output
     currentlyRetrograde.innerHTML = '';
-
+    console.log(today);
     // Iterate through all dates
     for(var key in dateInfo){
-        if (!dateInfo.hasOwnProperty(key)) {
-            continue;
-        }
-        var planets = dateInfo[key].planets;
-        var direction = dateInfo[key].direction;
-        var time = dateInfo[key].time;
-        var sign = dateInfo[key].sign;
-        var degrees = dateInfo[key].degrees;
-        var minutes = dateInfo[key].minutes;
-
-        for(var i = 0; i < planets.length;i++){
-
-            if(typeof(time[i] == undefined)){
-                var time = ['No Event Today', 'No Event Today', 'No Event Today', 'No Event Today', 'No Event Today', 'No Event Today', 'No Event Today', 'No Event Today', 'No Event Today'];
-            } if(typeof(sign == undefined)){
-                var sign = ['No Event Today', 'No Event Today', 'No Event Today', 'No Event Today', 'No Event Today', 'No Event Today', 'No Event Today', 'No Event Today', 'No Event Today'];
-            } if(typeof(degrees == undefined)){
-                var degrees = ['No Event Today', 'No Event Today', 'No Event Today', 'No Event Today', 'No Event Today', 'No Event Today', 'No Event Today', 'No Event Today', 'No Event Today'];
-            } if(typeof(minutes == undefined)){
-                var minutes = ['No Event Today', 'No Event Today', 'No Event Today', 'No Event Today', 'No Event Today', 'No Event Today', 'No Event Today', 'No Event Today', 'No Event Today'];
+        if (key == today){
+        
+            if (!dateInfo.hasOwnProperty(key)) {
+                continue;
             }
-            
+            var planets = dateInfo[key].planets;
+            var direction = dateInfo[key].direction;
+            var time = dateInfo[key].time;
+            var sign = dateInfo[key].sign;
+            var degrees = dateInfo[key].degrees;
+            var minutes = dateInfo[key].minutes;
+
+            for(var i = 0; i < planets.length;i++){
+
+                if(typeof(time[i] == undefined)){
+                    var time = ['No Event Today', 'No Event Today', 'No Event Today', 'No Event Today', 'No Event Today', 'No Event Today', 'No Event Today', 'No Event Today', 'No Event Today'];
+                } if(typeof(sign == undefined)){
+                    var sign = ['No Event Today', 'No Event Today', 'No Event Today', 'No Event Today', 'No Event Today', 'No Event Today', 'No Event Today', 'No Event Today', 'No Event Today'];
+                } if(typeof(degrees == undefined)){
+                    var degrees = ['No Event Today', 'No Event Today', 'No Event Today', 'No Event Today', 'No Event Today', 'No Event Today', 'No Event Today', 'No Event Today', 'No Event Today'];
+                } if(typeof(minutes == undefined)){
+                    var minutes = ['No Event Today', 'No Event Today', 'No Event Today', 'No Event Today', 'No Event Today', 'No Event Today', 'No Event Today', 'No Event Today', 'No Event Today'];
+                }
+
             currentlyRetrograde.innerHTML +=    '<div class="well">' +
                                                 '<h3>' +planets[i]+ '</h3>' + 
                                                 '<table style="width: 100%; font-size: 14px;color: white;">' +
@@ -93,7 +95,7 @@ function fetchRetrograde(){
                                                 '</div>'
 
         
-            
+            }
         }
     }
 }
