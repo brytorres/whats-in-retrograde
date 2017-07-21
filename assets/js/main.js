@@ -10,7 +10,7 @@ var currentDateMonth = currentDate.getMonth();
 var monthNum = parseInt(currentDateMonth);
 var currentDateDay = currentDate.getUTCDate();
 var currentDateYear = currentDate.getUTCFullYear();
-var currentDateClean = currentDateMonth + '-' + currentDateDay + '-' + currentDateYear;
+var currentDateClean = (currentDateMonth+1) + '-' + currentDateDay + '-' + currentDateYear;
 
 // Month number to string
 function numToMon(monthNum){
@@ -61,6 +61,7 @@ function fetchRetrograde(date){
             var minutes = dateInfo[key].minutes;
 
             for(var i = 0; i < planets.length;i++){
+
                 
                 // Generates planet direction image tag based on direction string
                 var directionToday = direction[i];
@@ -68,33 +69,32 @@ function fetchRetrograde(date){
                     var directionImg = '<img src="/assets/img/enters.png" alt="Entering RX Zone">';
                 }
                 if(directionToday === 'In RX Zone'){
-                    var directionImg = '<img src="/assets/img/inZone.png" alt="Entering RX Zone">';
+                    var directionImg = '<img src="/assets/img/inZone.png" alt="In RX Zone">';
                 }
                 if(directionToday === 'Stationary Retrograde'){
-                    var directionImg = '<img src="/assets/img/stationaryRetro.png" alt="Entering RX Zone">';
+                    var directionImg = '<img src="/assets/img/stationaryRetro.png" alt="Stationary Retrograde">';
                 }
                 if(directionToday === 'Retrograde'){
-                    var directionImg = '<img src="/assets/img/retro.png" alt="Entering RX Zone">';
+                    var directionImg = '<img src="/assets/img/retro.png" alt="Retrograde">';
                 }
                 if(directionToday === 'Stationary Direct'){
-                    var directionImg = '<img src="/assets/img/stationaryDirect.png" alt="Entering RX Zone">';
+                    var directionImg = '<img src="/assets/img/stationaryDirect.png" alt="Stationary Direct">';
                 }
                 if(directionToday === 'Direct'){
-                    var directionImg = '<img src="/assets/img/direct.png" alt="Entering RX Zone">';
+                    var directionImg = '<img src="/assets/img/direct.png" alt="Direct">';
                 }
                 if(directionToday === 'Leaves RX Zone'){
-                    var directionImg = '<img src="/assets/img/leaving.png" alt="Entering RX Zone">';
+                    var directionImg = '<img src="/assets/img/leaving.png" alt="Leaves RX Zone">';
                 }
-                console.log(directionImg);
 
                 if(typeof(time[i] == undefined)){
-                    var time = ['No Event Today', 'No Event Today', 'No Event Today', 'No Event Today', 'No Event Today', 'No Event Today', 'No Event Today', 'No Event Today', 'No Event Today'];
+                    var time = ['<img src="/assets/img/noEvent.png" alt="No Event">', '<img src="/assets/img/noEvent.png" alt="No Event">', '<img src="/assets/img/noEvent.png" alt="No Event">', '<img src="/assets/img/noEvent.png" alt="No Event">', '<img src="/assets/img/noEvent.png" alt="No Event">', '<img src="/assets/img/noEvent.png" alt="No Event">', '<img src="/assets/img/noEvent.png" alt="No Event">'];
                 } if(typeof(sign == undefined)){
-                    var sign = ['No Event Today', 'No Event Today', 'No Event Today', 'No Event Today', 'No Event Today', 'No Event Today', 'No Event Today', 'No Event Today', 'No Event Today'];
+                    var sign = ['<img src="/assets/img/noEvent.png" alt="No Event">', '<img src="/assets/img/noEvent.png" alt="No Event">', '<img src="/assets/img/noEvent.png" alt="No Event">', '<img src="/assets/img/noEvent.png" alt="No Event">', '<img src="/assets/img/noEvent.png" alt="No Event">', '<img src="/assets/img/noEvent.png" alt="No Event">', '<img src="/assets/img/noEvent.png" alt="No Event">'];
                 } if(typeof(degrees == undefined)){
-                    var degrees = ['No Event Today', 'No Event Today', 'No Event Today', 'No Event Today', 'No Event Today', 'No Event Today', 'No Event Today', 'No Event Today', 'No Event Today'];
+                    var degrees = ['<img src="/assets/img/noEvent.png" alt="No Event">', '<img src="/assets/img/noEvent.png" alt="No Event">', '<img src="/assets/img/noEvent.png" alt="No Event">', '<img src="/assets/img/noEvent.png" alt="No Event">', '<img src="/assets/img/noEvent.png" alt="No Event">', '<img src="/assets/img/noEvent.png" alt="No Event">', '<img src="/assets/img/noEvent.png" alt="No Event">'];
                 } if(typeof(minutes == undefined)){
-                    var minutes = ['No Event Today', 'No Event Today', 'No Event Today', 'No Event Today', 'No Event Today', 'No Event Today', 'No Event Today', 'No Event Today', 'No Event Today'];
+                    var minutes = ['<img src="/assets/img/noEvent.png" alt="No Event">', '<img src="/assets/img/noEvent.png" alt="No Event">', '<img src="/assets/img/noEvent.png" alt="No Event">', '<img src="/assets/img/noEvent.png" alt="No Event">', '<img src="/assets/img/noEvent.png" alt="No Event">', '<img src="/assets/img/noEvent.png" alt="No Event">', '<img src="/assets/img/noEvent.png" alt="No Event">'];
                 }
 
             currentlyRetrograde.innerHTML +=    '<div class="well">' +
@@ -121,8 +121,6 @@ function fetchRetrograde(date){
                                                 // '<p>' +degrees[i]+ '</p>' + '<br>' +
                                                 // '<p>' +minutes[i]+ '</p>' + '<br>' + 
                                                 '</div>'
-
-        
             }
         }
     }
