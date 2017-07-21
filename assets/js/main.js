@@ -10,7 +10,7 @@ var currentDateMonth = currentDate.getMonth();
 var monthNum = parseInt(currentDateMonth);
 var currentDateDay = currentDate.getUTCDate();
 var currentDateYear = currentDate.getUTCFullYear();
-var currentDateClean = currentDateMonth + '-' + currentDateDay + '-' + currentDateYear; 
+var currentDateClean = currentDateMonth + '-' + currentDateDay + '-' + currentDateYear;
 
 // Month number to string
 function numToMon(monthNum){
@@ -56,6 +56,7 @@ function fetchRetrograde(){
         var minutes = dateInfo[key].minutes;
 
         for(var i = 0; i < planets.length;i++){
+
             if(typeof(time[i] == undefined)){
                 var time = ['No Event Today', 'No Event Today', 'No Event Today', 'No Event Today', 'No Event Today', 'No Event Today', 'No Event Today', 'No Event Today', 'No Event Today'];
             } if(typeof(sign == undefined)){
@@ -65,6 +66,7 @@ function fetchRetrograde(){
             } if(typeof(minutes == undefined)){
                 var minutes = ['No Event Today', 'No Event Today', 'No Event Today', 'No Event Today', 'No Event Today', 'No Event Today', 'No Event Today', 'No Event Today', 'No Event Today'];
             }
+            
             currentlyRetrograde.innerHTML +=    '<div class="well">' +
                                                 '<h3>' +planets[i]+ '</h3>' + 
                                                 '<table style="width: 100%; font-size: 14px;color: white;">' +
@@ -89,7 +91,8 @@ function fetchRetrograde(){
                                                 // '<p>' +degrees[i]+ '</p>' + '<br>' +
                                                 // '<p>' +minutes[i]+ '</p>' + '<br>' + 
                                                 '</div>'
-                                                
+
+        
             
         }
     }
@@ -97,7 +100,6 @@ function fetchRetrograde(){
 
 // Fetch planets currently in retrograde
 function currentlyRetrograde(){
-
 }
 
 function nextRetrogrades(){
