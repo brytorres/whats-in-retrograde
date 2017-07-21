@@ -8,6 +8,26 @@ body {
   }
 }
 
+img {
+  opacity: 0.7;
+  filter: alpha(opacity=70);
+}
+
+.topheader {
+  color: white;
+  font-size: 54px;
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 300;
+  text-align: center;
+}
+
+.todayInfo {
+  font-size: 40px;
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 300;
+  text-align: center;
+}
+
 .planet {
   font-family: 'Catamaran', sans-serif;
   color: rgb(220, 220, 220);
@@ -28,12 +48,16 @@ body {
 
 /* Custom */
 .title {
+  font-family: 'Catamaran', sans-serif;
+  color: rgb(220, 220, 220);
+  font-weight: 300;
   border-right: 1px;
   border-color: white;
   text-align: right;
   padding-left: 10px;
   padding-top: 20px;
   margin-left: -20px;
+
 }
 @media (max-width: 480px) {
   .title {

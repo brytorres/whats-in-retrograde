@@ -41,7 +41,7 @@ function fetchRetrograde(date){
     var todayInfo = document.getElementById('todayInfo');
 
     // Display the dates info
-    todayInfo.innerHTML = '<h4>' + currentDateClean + '</h4>';
+    todayInfo.innerHTML = '<h4 class="todayInfo">' + currentDateClean + '</h4>';
 
     // Build Output
     currentlyRetrograde.innerHTML = '';
