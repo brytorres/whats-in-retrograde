@@ -10,6 +10,11 @@ body {
 
 h3 {
   color: white;
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 700;
+  font-size: 42px;
+  text-align: center;
+
 }
 
 /* Custom */
@@ -48,7 +53,9 @@ table td { border-left: 1px solid #333; }
 table td:first-child { border-left: none; }
 
 th {
-  font-size: 18px;
+  font-size: 24px;
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 300;
   text-align: center;
   color: #66f;
   padding-top: 15px;
@@ -56,7 +63,8 @@ th {
 }
 
 td {
-  font-size: 14px;
+  font-size: 18px;
+  font-family: 'Quicksand', sans-serif;
   text-align: center;
   color: #fcc;
   padding-top: 15px;

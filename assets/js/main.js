@@ -46,7 +46,6 @@ function fetchRetrograde(){
     // Iterate through all dates
     for(var key in dateInfo){
         if (key == today){
-        
             if (!dateInfo.hasOwnProperty(key)) {
                 continue;
             }
@@ -73,11 +72,11 @@ function fetchRetrograde(){
                                                 '<h3>' +planets[i]+ '</h3>' + 
                                                 '<table style="width: 100%; font-size: 14px;color: white;">' +
                                                     '<tr>' +
-                                                        '<th>' +'Direction'+ '</th>' +
-                                                        '<th>' +'Time'+ '</th>' +
-                                                        '<th>' +'Degrees'+ '</th>' +
-                                                        '<th>' +'Sign'+ '</th>' +
-                                                        '<th>' +'Minutes'+ '</th>' +
+                                                        '<th>' +'DIRECTION'+ '</th>' +
+                                                        '<th>' +'TIME'+ '</th>' +
+                                                        '<th>' +'DEGREES'+ '</th>' +
+                                                        '<th>' +'SIGN'+ '</th>' +
+                                                        '<th>' +'MINUTES'+ '</th>' +
                                                     '</tr>' +
                                                     '<tr>' +
                                                         '<td>' +direction[i]+ '</td>' +

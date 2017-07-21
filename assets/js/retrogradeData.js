@@ -2,7 +2,7 @@
 var dateInfo = {
     // JANUARY
     jan01: {
-        planets: ['Mercury', 'Jupiter', 'Saturn', 'Pluto'],
+        planets: ['MERCURY', 'JUPITER', 'SATURN', 'PLUTO'],
         direction: ['Retrograde', 'In RX Zone', 'In RX Zone', 'In Rx Zone'],
         time: [],
         sign: [],
@@ -10,7 +10,7 @@ var dateInfo = {
         minutes: [],
     },
     jan02: {
-        planets: ['Mercury', 'Jupiter', 'Saturn', 'Pluto'],
+        planets: ['MERCURY', 'JUPITER', 'SATURN', 'PLUTO'],
         direction: ['Retrograde', 'In RX Zone', 'In RX Zone', 'In Rx Zone'],
         time: [],
         sign: [],
@@ -18,7 +18,7 @@ var dateInfo = {
         minutes: [],
     },
     jan03: {
-        planets: ['Mercury', 'Jupiter', 'Saturn', 'Pluto'],
+        planets: ['MERCURY', 'JUPITER', 'SATURN', 'PLUTO'],
         direction: ['Retrograde', 'In RX Zone', 'In RX Zone', 'In Rx Zone'],
         time: [],
         sign: [],
@@ -26,7 +26,7 @@ var dateInfo = {
         minutes: [],
     },
     jan04: {
-        planets: ['Mercury', 'Jupiter', 'Saturn', 'Pluto'],
+        planets: ['MERCURY', 'JUPITER', 'SATURN', 'PLUTO'],
         direction: ['Retrograde', 'In RX Zone', 'In RX Zone', 'In Rx Zone'],
         time: [],
         sign: [],
@@ -34,7 +34,7 @@ var dateInfo = {
         minutes: [],
     },
     jan05: {
-        planets: ['Mercury', 'Jupiter', 'Saturn', 'Pluto'],
+        planets: ['MERCURY', 'JUPITER', 'SATURN', 'PLUTO'],
         direction: ['Retrograde', 'In RX Zone', 'In RX Zone', 'In Rx Zone'],
         time: [],
         sign: [],
@@ -42,7 +42,7 @@ var dateInfo = {
         minutes: [],
     },
     jan06: {
-        planets: ['Mercury', 'Jupiter', 'Saturn', 'Pluto'],
+        planets: ['MERCURY', 'JUPITER', 'SATURN', 'PLUTO'],
         direction: ['Retrograde', 'In RX Zone', 'In RX Zone', 'In Rx Zone'],
         time: [],
         sign: [],
@@ -50,7 +50,7 @@ var dateInfo = {
         minutes: [],
     },
     jan07: {
-        planets: ['Mercury', 'Jupiter', 'Saturn', 'Pluto'],
+        planets: ['MERCURY', 'JUPITER', 'SATURN', 'PLUTO'],
         direction: ['Retrograde', 'In RX Zone', 'In RX Zone', 'In Rx Zone'],
         time: [],
         sign: [],
@@ -58,7 +58,7 @@ var dateInfo = {
         minutes: [],
     },
     jan08: {
-        planets: ['Mercury', 'Jupiter', 'Saturn', 'Pluto'],
+        planets: ['MERCURY', 'JUPITER', 'SATURN', 'PLUTO'],
         direction: ['Stationary Direct', 'In RX Zone', 'In RX Zone', 'In Rx Zone'],
         time: ['04:40 AM'],
         sign: ['Sagitarrius'],
@@ -66,7 +66,7 @@ var dateInfo = {
         minutes: ["51'"],
     },
     jan09: {
-        planets: ['Mercury', 'Jupiter', 'Saturn', 'Pluto'],
+        planets: ['MERCURY', 'JUPITER', 'SATURN', 'PLUTO'],
         direction: ['Direct', 'In RX Zone', 'In RX Zone', 'In Rx Zone'],
         time: [],
         sign: [],
@@ -74,7 +74,7 @@ var dateInfo = {
         minutes: [],
     },
     jan10: {
-        planets: ['Mercury', 'Jupiter', 'Saturn', 'Pluto'],
+        planets: ['MERCURY', 'JUPITER', 'SATURN', 'PLUTO'],
         direction: ['Direct', 'In RX Zone', 'In RX Zone', 'In Rx Zone'],
         time: [],
         sign: [],
@@ -82,7 +82,7 @@ var dateInfo = {
         minutes: [],
     },
     jan11: {
-        planets: ['Mercury', 'Jupiter', 'Saturn', 'Pluto'],
+        planets: ['MERCURY', 'JUPITER', 'SATURN', 'PLUTO'],
         direction: ['Direct', 'In RX Zone', 'In RX Zone', 'In Rx Zone'],
         time: [],
         sign: [],
@@ -90,7 +90,7 @@ var dateInfo = {
         minutes: [],
     },
     jan12: {
-        planets: ['Mercury', 'Jupiter', 'Saturn', 'Pluto'],
+        planets: ['MERCURY', 'JUPITER', 'SATURN', 'PLUTO'],
         direction: ['Direct', 'In RX Zone', 'In RX Zone', 'In Rx Zone'],
         time: [],
         sign: [],
@@ -98,7 +98,7 @@ var dateInfo = {
         minutes: [],
     },
     jan13: {
-        planets: ['Mercury', 'Jupiter', 'Saturn', 'Pluto'],
+        planets: ['MERCURY', 'JUPITER', 'SATURN', 'PLUTO'],
         direction: ['Direct', 'In RX Zone', 'In RX Zone', 'In Rx Zone'],
         time: [],
         sign: [],
@@ -106,7 +106,7 @@ var dateInfo = {
         minutes: [],
     },
     jan14: {
-        planets: ['Mercury', 'Jupiter', 'Saturn', 'Pluto'],
+        planets: ['MERCURY', 'JUPITER', 'SATURN', 'PLUTO'],
         direction: ['Direct', 'In RX Zone', 'In RX Zone', 'In Rx Zone'],
         time: [],
         sign: [],
@@ -114,7 +114,7 @@ var dateInfo = {
         minutes: [],
     },
     jan15: {
-        planets: ['Mercury', 'Jupiter', 'Saturn', 'Pluto'],
+        planets: ['MERCURY', 'JUPITER', 'SATURN', 'PLUTO'],
         direction: ['Direct', 'In RX Zone', 'In RX Zone', 'In Rx Zone'],
         time: [],
         sign: [],
@@ -122,7 +122,7 @@ var dateInfo = {
         minutes: [],
     },
     jan16: {
-        planets: ['Mercury', 'Jupiter', 'Saturn', 'Pluto'],
+        planets: ['MERCURY', 'JUPITER', 'SATURN', 'PLUTO'],
         direction: ['Direct', 'In RX Zone', 'In RX Zone', 'In Rx Zone'],
         time: [],
         sign: [],
@@ -130,7 +130,7 @@ var dateInfo = {
         minutes: [],
     },
     jan17: {
-        planets: ['Mercury', 'Jupiter', 'Saturn', 'Pluto'],
+        planets: ['MERCURY', 'JUPITER', 'SATURN', 'PLUTO'],
         direction: ['Direct', 'In RX Zone', 'In RX Zone', 'In Rx Zone'],
         time: [],
         sign: [],
@@ -138,7 +138,7 @@ var dateInfo = {
         minutes: [],
     },
     jan18: {
-        planets: ['Mercury', 'Jupiter', 'Saturn', 'Pluto'],
+        planets: ['MERCURY', 'JUPITER', 'SATURN', 'PLUTO'],
         direction: ['Direct', 'In RX Zone', 'In RX Zone', 'In Rx Zone'],
         time: [],
         sign: [],
@@ -146,7 +146,7 @@ var dateInfo = {
         minutes: [],
     },
     jan19: {
-        planets: ['Mercury', 'Jupiter', 'Saturn', 'Pluto'],
+        planets: ['MERCURY', 'JUPITER', 'SATURN', 'PLUTO'],
         direction: ['Direct', 'In RX Zone', 'In RX Zone', 'In Rx Zone'],
         time: [],
         sign: [],
@@ -154,7 +154,7 @@ var dateInfo = {
         minutes: [],
     },
     jan20: {
-        planets: ['Mercury', 'Jupiter', 'Saturn', 'Pluto'],
+        planets: ['MERCURY', 'JUPITER', 'SATURN', 'PLUTO'],
         direction: ['Direct', 'In RX Zone', 'In RX Zone', 'In Rx Zone'],
         time: [],
         sign: [],
@@ -162,7 +162,7 @@ var dateInfo = {
         minutes: [],
     },
     jan21: {
-        planets: ['Mercury', 'Jupiter', 'Saturn', 'Pluto'],
+        planets: ['MERCURY', 'JUPITER', 'SATURN', 'PLUTO'],
         direction: ['Direct', 'In RX Zone', 'In RX Zone', 'In Rx Zone'],
         time: [],
         sign: [],
@@ -170,7 +170,7 @@ var dateInfo = {
         minutes: [],
     },
     jan22: {
-        planets: ['Mercury', 'Jupiter', 'Saturn', 'Pluto'],
+        planets: ['MERCURY', 'JUPITER', 'SATURN', 'PLUTO'],
         direction: ['Direct', 'In RX Zone', 'In RX Zone', 'In Rx Zone'],
         time: [],
         sign: [],
@@ -178,7 +178,7 @@ var dateInfo = {
         minutes: [],
     },
     jan23: {
-        planets: ['Mercury', 'Jupiter', 'Saturn', 'Pluto'],
+        planets: ['MERCURY', 'JUPITER', 'SATURN', 'PLUTO'],
         direction: ['Direct', 'In RX Zone', 'In RX Zone', 'In Rx Zone'],
         time: [],
         sign: [],
@@ -186,7 +186,7 @@ var dateInfo = {
         minutes: [],
     },
     jan23: {
-        planets: ['Mercury', 'Jupiter', 'Saturn', 'Pluto'],
+        planets: ['MERCURY', 'JUPITER', 'SATURN', 'PLUTO'],
         direction: ['Direct', 'In RX Zone', 'In RX Zone', 'In Rx Zone'],
         time: [],
         sign: [],
@@ -194,7 +194,7 @@ var dateInfo = {
         minutes: [],
     },
     jan24: {
-        planets: ['Mercury', 'Jupiter', 'Saturn', 'Pluto'],
+        planets: ['MERCURY', 'JUPITER', 'SATURN', 'PLUTO'],
         direction: ['Direct', 'In RX Zone', 'In RX Zone', 'In Rx Zone'],
         time: [],
         sign: [],
@@ -202,7 +202,7 @@ var dateInfo = {
         minutes: [],
     },
     jan25: {
-        planets: ['Mercury', 'Jupiter', 'Saturn', 'Pluto'],
+        planets: ['MERCURY', 'JUPITER', 'SATURN', 'PLUTO'],
         direction: ['Direct', 'In RX Zone', 'In RX Zone', 'In Rx Zone'],
         time: [],
         sign: [],
@@ -210,7 +210,7 @@ var dateInfo = {
         minutes: [],
     },
     jan26: {
-        planets: ['Mercury', 'Jupiter', 'Saturn', 'Pluto'],
+        planets: ['MERCURY', 'JUPITER', 'SATURN', 'PLUTO'],
         direction: ['Direct', 'In RX Zone', 'In RX Zone', 'In Rx Zone'],
         time: [],
         sign: [],
@@ -218,7 +218,7 @@ var dateInfo = {
         minutes: [],
     },
     jan27: {
-        planets: ['Mercury', 'Jupiter', 'Saturn', 'Pluto'],
+        planets: ['MERCURY', 'JUPITER', 'SATURN', 'PLUTO'],
         direction: ['Leaves RX Zone', 'In RX Zone', 'In RX Zone', 'In Rx Zone'],
         time: ['12:30 PM'],
         sign: ['Capricorn'],
@@ -226,7 +226,7 @@ var dateInfo = {
         minutes: ["8'"],
     },
     jan28: {
-        planets: ['Jupiter', 'Saturn', 'Pluto'],
+        planets: ['JUPITER', 'SATURN', 'PLUTO'],
         direction: ['In RX Zone', 'In RX Zone', 'In Rx Zone'],
         time: [],
         sign: [],
@@ -234,7 +234,7 @@ var dateInfo = {
         minutes: [],
     },
     jan29: {
-        planets: ['Jupiter', 'Saturn', 'Pluto'],
+        planets: ['JUPITER', 'SATURN', 'PLUTO'],
         direction: ['In RX Zone', 'In RX Zone', 'In Rx Zone'],
         time: [],
         sign: [],
@@ -242,7 +242,7 @@ var dateInfo = {
         minutes: [],
     },
     jan30: {
-        planets: ['Venus', 'Jupiter', 'Saturn', 'Pluto'],
+        planets: ['VENUS', 'JUPITER', 'SATURN', 'PLUTO'],
         direction: ['Enters RX Zone', 'In RX Zone', 'In RX Zone', 'In Rx Zone'],
         time: ['04:01 PM'],
         sign: ['Pisces'],
@@ -250,7 +250,7 @@ var dateInfo = {
         minutes: ["55'"],
     },
     jan31: {
-        planets: ['Venus', 'Jupiter', 'Saturn', 'Pluto'],
+        planets: ['VENUS', 'JUPITER', 'SATURN', 'PLUTO'],
         direction: ['In RX Zone', 'In RX Zone', 'In RX Zone', 'In Rx Zone'],
         time: [],
         sign: [],
@@ -260,7 +260,7 @@ var dateInfo = {
 
     // FEBRUARY
     feb01: {
-        planets: ['Venus', 'Jupiter', 'Saturn', 'Pluto'],
+        planets: ['VENUS', 'JUPITER', 'SATURN', 'PLUTO'],
         direction: ['In RX Zone', 'In RX Zone', 'In RX Zone', 'In Rx Zone'],
         time: [],
         sign: [],
@@ -268,7 +268,7 @@ var dateInfo = {
         minutes: [],
     },
     feb02: {
-        planets: ['Venus', 'Jupiter', 'Saturn', 'Pluto'],
+        planets: ['VENUS', 'JUPITER', 'SATURN', 'PLUTO'],
         direction: ['In RX Zone', 'In RX Zone', 'In RX Zone', 'In Rx Zone'],
         time: [],
         sign: [],
@@ -276,7 +276,7 @@ var dateInfo = {
         minutes: [],
     },
     feb03: {
-        planets: ['Venus', 'Jupiter', 'Saturn', 'Pluto'],
+        planets: ['VENUS', 'JUPITER', 'SATURN', 'PLUTO'],
         direction: ['In RX Zone', 'In RX Zone', 'In RX Zone', 'In Rx Zone'],
         time: [],
         sign: [],
@@ -284,7 +284,7 @@ var dateInfo = {
         minutes: [],
     },
     feb04: {
-        planets: ['Venus', 'Jupiter', 'Saturn', 'Pluto'],
+        planets: ['VENUS', 'JUPITER', 'SATURN', 'PLUTO'],
         direction: ['In RX Zone', 'In RX Zone', 'In RX Zone', 'In Rx Zone'],
         time: [],
         sign: [],
@@ -292,7 +292,7 @@ var dateInfo = {
         minutes: [],
     },
     feb05: {
-        planets: ['Venus', 'Jupiter', 'Saturn', 'Pluto'],
+        planets: ['VENUS', 'JUPITER', 'SATURN', 'PLUTO'],
         direction: ['In RX Zone', 'In RX Zone', 'In RX Zone', 'In Rx Zone'],
         time: [],
         sign: [],
@@ -300,7 +300,7 @@ var dateInfo = {
         minutes: [],
     },
     feb06: {
-        planets: ['Venus', 'Jupiter', 'Saturn', 'Pluto'],
+        planets: ['VENUS', 'JUPITER', 'SATURN', 'PLUTO'],
         direction: ['In RX Zone', 'Stationary Retrograde', 'In RX Zone', 'In Rx Zone'],
         time: ['12:59 AM'],
         sign: ['Libra'],
@@ -308,7 +308,7 @@ var dateInfo = {
         minutes: ["8'"],
     },
     feb07: {
-        planets: ['Venus', 'Jupiter', 'Saturn', 'Pluto'],
+        planets: ['VENUS', 'JUPITER', 'SATURN', 'PLUTO'],
         direction: ['In RX Zone', 'Retrograde', 'In RX Zone', 'In Rx Zone'],
         time: [],
         sign: [],
@@ -316,7 +316,7 @@ var dateInfo = {
         minutes: [],
     },
     feb08: {
-        planets: ['Venus', 'Jupiter', 'Saturn', 'Pluto'],
+        planets: ['VENUS', 'JUPITER', 'SATURN', 'PLUTO'],
         direction: ['In RX Zone', 'Retrograde', 'In RX Zone', 'In Rx Zone'],
         time: [],
         sign: [],
@@ -324,7 +324,7 @@ var dateInfo = {
         minutes: [],
     },
     feb09: {
-        planets: ['Venus', 'Jupiter', 'Saturn', 'Pluto'],
+        planets: ['VENUS', 'JUPITER', 'SATURN', 'PLUTO'],
         direction: ['In RX Zone', 'Retrograde', 'In RX Zone', 'In Rx Zone'],
         time: [],
         sign: [],
@@ -332,7 +332,7 @@ var dateInfo = {
         minutes: [],
     },
     feb10: {
-        planets: ['Venus', 'Jupiter', 'Saturn', 'Pluto'],
+        planets: ['VENUS', 'JUPITER', 'SATURN', 'PLUTO'],
         direction: ['In RX Zone', 'Retrograde', 'In RX Zone', 'In Rx Zone'],
         time: [],
         sign: [],
@@ -340,7 +340,7 @@ var dateInfo = {
         minutes: [],
     },
     feb11: {
-        planets: ['Mercury', 'Jupiter', 'Saturn', 'Pluto'],
+        planets: ['MERCURY', 'JUPITER', 'SATURN', 'PLUTO'],
         direction: ['In RX Zone', 'Retrograde', 'In RX Zone', 'In Rx Zone'],
         time: [],
         sign: [],
@@ -348,7 +348,7 @@ var dateInfo = {
         minutes: [],
     },
     feb12: {
-        planets: ['Venus', 'Jupiter', 'Saturn', 'Pluto'],
+        planets: ['VENUS', 'JUPITER', 'SATURN', 'PLUTO'],
         direction: ['RIn RX Zone', 'Retrograde', 'In RX Zone', 'In Rx Zone'],
         time: [],
         sign: [],
@@ -356,7 +356,7 @@ var dateInfo = {
         minutes: [],
     },
     feb13: {
-        planets: ['Venus', 'Jupiter', 'Saturn', 'Pluto'],
+        planets: ['VENUS', 'JUPITER', 'SATURN', 'PLUTO'],
         direction: ['In RX Zone', 'Retrograde', 'In RX Zone', 'In Rx Zone'],
         time: [],
         sign: [],
@@ -364,7 +364,7 @@ var dateInfo = {
         minutes: [],
     },
     feb14: {
-        planets: ['Venus', 'Jupiter', 'Saturn', 'Pluto'],
+        planets: ['VENUS', 'JUPITER', 'SATURN', 'PLUTO'],
         direction: ['In RX Zone', 'Retrograde', 'In RX Zone', 'In Rx Zone'],
         time: [],
         sign: [],
@@ -372,7 +372,7 @@ var dateInfo = {
         minutes: [],
     },
     feb15: {
-        planets: ['Venus', 'Jupiter', 'Saturn', 'Pluto'],
+        planets: ['VENUS', 'JUPITER', 'SATURN', 'PLUTO'],
         direction: ['In RX Zone', 'Retrograde', 'In RX Zone', 'In Rx Zone'],
         time: [],
         sign: [],
@@ -380,7 +380,7 @@ var dateInfo = {
         minutes: [],
     },
     feb16: {
-        planets: ['Venus', 'Jupiter', 'Saturn', 'Pluto'],
+        planets: ['VENUS', 'JUPITER', 'SATURN', 'PLUTO'],
         direction: ['In RX Zone', 'Retrograde', 'In RX Zone', 'In Rx Zone'],
         time: [],
         sign: [],
@@ -388,7 +388,7 @@ var dateInfo = {
         minutes: [],
     },
     feb17: {
-        planets: ['Venus', 'Jupiter', 'Saturn', 'Pluto'],
+        planets: ['VENUS', 'JUPITER', 'SATURN', 'PLUTO'],
         direction: ['In RX Zone', 'Retrograde', 'In RX Zone', 'In Rx Zone'],
         time: [],
         sign: [],
@@ -396,7 +396,7 @@ var dateInfo = {
         minutes: [],
     },
     feb18: {
-        planets: ['Venus', 'Jupiter', 'Saturn', 'Pluto'],
+        planets: ['VENUS', 'JUPITER', 'SATURN', 'PLUTO'],
         direction: ['In RX Zone', 'Retrograde', 'In RX Zone', 'In Rx Zone'],
         time: [],
         sign: [],
@@ -404,7 +404,7 @@ var dateInfo = {
         minutes: [],
     },
     feb19: {
-        planets: ['Venus', 'Jupiter', 'Saturn', 'Pluto'],
+        planets: ['VENUS', 'JUPITER', 'SATURN', 'PLUTO'],
         direction: ['In RX Zone', 'Retrograde', 'In RX Zone', 'In Rx Zone'],
         time: [],
         sign: [],
@@ -412,7 +412,7 @@ var dateInfo = {
         minutes: [],
     },
     feb20: {
-        planets: ['Venus', 'Jupiter', 'Saturn', 'Pluto'],
+        planets: ['VENUS', 'JUPITER', 'SATURN', 'PLUTO'],
         direction: ['In RX Zone', 'Retrograde', 'In RX Zone', 'In Rx Zone'],
         time: [],
         sign: [],
@@ -420,7 +420,7 @@ var dateInfo = {
         minutes: [],
     },
     feb21: {
-        planets: ['Venus', 'Jupiter', 'Saturn', 'Pluto'],
+        planets: ['VENUS', 'JUPITER', 'SATURN', 'PLUTO'],
         direction: ['In RX Zone', 'Retrograde', 'In RX Zone', 'In Rx Zone'],
         time: [],
         sign: [],
@@ -428,7 +428,7 @@ var dateInfo = {
         minutes: [],
     },
     feb22: {
-        planets: ['Venus', 'Jupiter', 'Saturn', 'Pluto'],
+        planets: ['VENUS', 'JUPITER', 'SATURN', 'PLUTO'],
         direction: ['In RX Zone', 'Retrograde', 'In RX Zone', 'In Rx Zone'],
         time: [],
         sign: [],
@@ -436,7 +436,7 @@ var dateInfo = {
         minutes: [],
     },
     feb23: {
-        planets: ['Venus', 'Jupiter', 'Saturn', 'Neptune', 'Pluto'],
+        planets: ['VENUS', 'JUPITER', 'SATURN', 'NEPTUNE', 'PLUTO'],
         direction: ['In Rx Zone', 'Retrograde', 'In RX Zone', 'Enters RX Zone', 'In Rx Zone'],
         time: ['12:41 PM'],
         sign: ['Pisces'],
@@ -444,7 +444,7 @@ var dateInfo = {
         minutes: ["28'"],
     },
     feb23: {
-        planets: ['Venus', 'Jupiter', 'Saturn', 'Neptune', 'Pluto'],
+        planets: ['VENUS', 'JUPITER', 'SATURN', 'NEPTUNE', 'PLUTO'],
         direction: ['In Rx Zone', 'Retrograde', 'In RX Zone', 'In RX Zone', 'In Rx Zone'],
         time: [],
         sign: [],
@@ -452,7 +452,7 @@ var dateInfo = {
         minutes: [],
     },
     feb24: {
-        planets: ['Venus', 'Jupiter', 'Saturn', 'Neptune', 'Pluto'],
+        planets: ['VENUS', 'JUPITER', 'SATURN', 'NEPTUNE', 'PLUTO'],
         direction: ['In Rx Zone', 'Retrograde', 'In RX Zone', 'In RX Zone', 'In Rx Zone'],
         time: [],
         sign: [],
@@ -460,7 +460,7 @@ var dateInfo = {
         minutes: [],
     },
     feb25: {
-        planets: ['Venus', 'Jupiter', 'Saturn', 'Neptune', 'Pluto'],
+        planets: ['VENUS', 'JUPITER', 'SATURN', 'NEPTUNE', 'PLUTO'],
         direction: ['In Rx Zone', 'Retrograde', 'In RX Zone', 'In RX Zone', 'In Rx Zone'],
         time: [],
         sign: [],
@@ -468,7 +468,7 @@ var dateInfo = {
         minutes: [],
     },
     feb26: {
-        planets: ['Venus', 'Jupiter', 'Saturn', 'Neptune', 'Pluto'],
+        planets: ['VENUS', 'JUPITER', 'SATURN', 'NEPTUNE', 'PLUTO'],
         direction: ['In Rx Zone', 'Retrograde', 'In RX Zone', 'In RX Zone', 'In Rx Zone'],
         time: [],
         sign: [],
@@ -476,7 +476,7 @@ var dateInfo = {
         minutes: [],
     },
     feb27: {
-        planets: ['Venus', 'Jupiter', 'Saturn', 'Neptune', 'Pluto'],
+        planets: ['VENUS', 'JUPITER', 'SATURN', 'NEPTUNE', 'PLUTO'],
         direction: ['In Rx Zone', 'Retrograde', 'In RX Zone', 'In RX Zone', 'In Rx Zone'],
         time: [],
         sign: [],
@@ -484,7 +484,7 @@ var dateInfo = {
         minutes: [],
     },
     feb28: {
-        planets: ['Venus', 'Jupiter', 'Saturn', 'Neptune', 'Pluto'],
+        planets: ['VENUS', 'JUPITER', 'SATURN', 'NEPTUNE', 'PLUTO'],
         direction: ['In Rx Zone', 'Retrograde', 'In RX Zone', 'In RX Zone', 'In Rx Zone'],
         time: [],
         sign: [],
@@ -494,7 +494,7 @@ var dateInfo = {
 
     // MARCH
     mar01: {
-        planets: ['Venus', 'Jupiter', 'Saturn', 'Neptune', 'Pluto'],
+        planets: ['VENUS', 'JUPITER', 'SATURN', 'NEPTUNE', 'PLUTO'],
         direction: ['In Rx Zone', 'Retrograde', 'In RX Zone', 'In RX Zone', 'In Rx Zone'],
         time: [],
         sign: [],
@@ -502,7 +502,7 @@ var dateInfo = {
         minutes: [],
     },
     mar02: {
-        planets: ['Venus', 'Jupiter', 'Saturn', 'Neptune', 'Pluto'],
+        planets: ['VENUS', 'JUPITER', 'SATURN', 'NEPTUNE', 'PLUTO'],
         direction: ['In Rx Zone', 'Retrograde', 'In RX Zone', 'In RX Zone', 'In Rx Zone'],
         time: [],
         sign: [],
@@ -510,7 +510,7 @@ var dateInfo = {
         minutes: [],
     },
     mar03: {
-        planets: ['Venus', 'Jupiter', 'Saturn', 'Neptune', 'Pluto'],
+        planets: ['VENUS', 'JUPITER', 'SATURN', 'NEPTUNE', 'PLUTO'],
         direction: ['In Rx Zone', 'Retrograde', 'In RX Zone', 'In RX Zone', 'In Rx Zone'],
         time: [],
         sign: [],
@@ -518,7 +518,7 @@ var dateInfo = {
         minutes: [],
     },
     mar04: {
-        planets: ['Venus', 'Jupiter', 'Saturn', 'Neptune', 'Pluto'],
+        planets: ['VENUS', 'JUPITER', 'SATURN', 'NEPTUNE', 'PLUTO'],
         direction: ['Stationary Retrograde', 'Retrograde', 'In RX Zone', 'In RX Zone', 'In Rx Zone'],
         time: ['04:02 AM'],
         sign: ['Aries'],
@@ -526,7 +526,7 @@ var dateInfo = {
         minutes: ["9'"],
     },
     mar05: {
-        planets: ['Venus', 'Jupiter', 'Saturn', 'Neptune', 'Pluto'],
+        planets: ['VENUS', 'JUPITER', 'SATURN', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Retrograde', 'In RX Zone', 'In RX Zone', 'In Rx Zone'],
         time: [],
         sign: [],
@@ -534,7 +534,7 @@ var dateInfo = {
         minutes: [],
     },
     mar06: {
-        planets: ['Venus', 'Jupiter', 'Saturn', 'Neptune', 'Pluto'],
+        planets: ['VENUS', 'JUPITER', 'SATURN', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Retrograde', 'In RX Zone', 'In RX Zone', 'In Rx Zone'],
         time: [],
         sign: [],
@@ -542,7 +542,7 @@ var dateInfo = {
         minutes: [],
     },
     mar07: {
-        planets: ['Venus', 'Jupiter', 'Saturn', 'Neptune', 'Pluto'],
+        planets: ['VENUS', 'JUPITER', 'SATURN', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Retrograde', 'In RX Zone', 'In RX Zone', 'In Rx Zone'],
         time: [],
         sign: [],
@@ -550,7 +550,7 @@ var dateInfo = {
         minutes: [],
     },
     mar08: {
-        planets: ['Venus', 'Jupiter', 'Saturn', 'Neptune', 'Pluto'],
+        planets: ['VENUS', 'JUPITER', 'SATURN', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Retrograde', 'In RX Zone', 'In RX Zone', 'In Rx Zone'],
         time: [],
         sign: [],
@@ -558,7 +558,7 @@ var dateInfo = {
         minutes: [],
     },
     mar09: {
-        planets: ['Venus', 'Jupiter', 'Saturn', 'Neptune', 'Pluto'],
+        planets: ['VENUS', 'JUPITER', 'SATURN', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Retrograde', 'In RX Zone', 'In RX Zone', 'In Rx Zone'],
         time: [],
         sign: [],
@@ -566,7 +566,7 @@ var dateInfo = {
         minutes: [],
     },
     mar10: {
-        planets: ['Venus', 'Jupiter', 'Saturn', 'Neptune', 'Pluto'],
+        planets: ['VENUS', 'JUPITER', 'SATURN', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Retrograde', 'In RX Zone', 'In RX Zone', 'In Rx Zone'],
         time: [],
         sign: [],
@@ -574,7 +574,7 @@ var dateInfo = {
         minutes: [],
     },
     mar11: {
-        planets: ['Venus', 'Jupiter', 'Saturn', 'Neptune', 'Pluto'],
+        planets: ['VENUS', 'JUPITER', 'SATURN', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Retrograde', 'In RX Zone', 'In RX Zone', 'In Rx Zone'],
         time: [],
         sign: [],
@@ -582,7 +582,7 @@ var dateInfo = {
         minutes: [],
     },
     mar12: {
-        planets: ['Venus', 'Jupiter', 'Saturn', 'Neptune', 'Pluto'],
+        planets: ['VENUS', 'JUPITER', 'SATURN', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Retrograde', 'In RX Zone', 'In RX Zone', 'In Rx Zone'],
         time: [],
         sign: [],
@@ -590,7 +590,7 @@ var dateInfo = {
         minutes: [],
     },
     mar13: {
-        planets: ['Venus', 'Jupiter', 'Saturn', 'Neptune', 'Pluto'],
+        planets: ['VENUS', 'JUPITER', 'SATURN', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Retrograde', 'In RX Zone', 'In RX Zone', 'In Rx Zone'],
         time: [],
         sign: [],
@@ -598,7 +598,7 @@ var dateInfo = {
         minutes: [],
     },
     mar14: {
-        planets: ['Venus', 'Jupiter', 'Saturn', 'Neptune', 'Pluto'],
+        planets: ['VENUS', 'JUPITER', 'SATURN', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Retrograde', 'In RX Zone', 'In RX Zone', 'In Rx Zone'],
         time: [],
         sign: [],
@@ -606,7 +606,7 @@ var dateInfo = {
         minutes: [],
     },
     mar15: {
-        planets: ['Venus', 'Jupiter', 'Saturn', 'Neptune', 'Pluto'],
+        planets: ['VENUS', 'JUPITER', 'SATURN', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Retrograde', 'In RX Zone', 'In RX Zone', 'In Rx Zone'],
         time: [],
         sign: [],
@@ -614,7 +614,7 @@ var dateInfo = {
         minutes: [],
     },
     mar16: {
-        planets: ['Venus', 'Jupiter', 'Saturn', 'Neptune', 'Pluto'],
+        planets: ['VENUS', 'JUPITER', 'SATURN', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Retrograde', 'In RX Zone', 'In RX Zone', 'In Rx Zone'],
         time: [],
         sign: [],
@@ -622,7 +622,7 @@ var dateInfo = {
         minutes: [],
     },
     mar17: {
-        planets: ['Venus', 'Jupiter', 'Saturn', 'Neptune', 'Pluto'],
+        planets: ['VENUS', 'JUPITER', 'SATURN', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Retrograde', 'In RX Zone', 'In RX Zone', 'In Rx Zone'],
         time: [],
         sign: [],
@@ -630,7 +630,7 @@ var dateInfo = {
         minutes: [],
     },
     mar18: {
-        planets: ['Venus', 'Jupiter', 'Saturn', 'Neptune', 'Pluto'],
+        planets: ['VENUS', 'JUPITER', 'SATURN', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Retrograde', 'In RX Zone', 'In RX Zone', 'In Rx Zone'],
         time: [],
         sign: [],
@@ -638,7 +638,7 @@ var dateInfo = {
         minutes: [],
     },
     mar19: {
-        planets: ['Venus', 'Jupiter', 'Saturn', 'Neptune', 'Pluto'],
+        planets: ['VENUS', 'JUPITER', 'SATURN', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Retrograde', 'In RX Zone', 'In RX Zone', 'In Rx Zone'],
         time: [],
         sign: [],
@@ -646,7 +646,7 @@ var dateInfo = {
         minutes: [],
     },
     mar20: {
-        planets: ['Venus', 'Jupiter', 'Saturn', 'Neptune', 'Pluto'],
+        planets: ['VENUS', 'JUPITER', 'SATURN', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Retrograde', 'In RX Zone', 'In RX Zone', 'In Rx Zone'],
         time: [],
         sign: [],
@@ -654,7 +654,7 @@ var dateInfo = {
         minutes: [],
     },
     mar21: {
-        planets: ['Venus', 'Jupiter', 'Saturn', 'Neptune', 'Pluto'],
+        planets: ['VENUS', 'JUPITER', 'SATURN', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Retrograde', 'In RX Zone', 'In RX Zone', 'In Rx Zone'],
         time: [],
         sign: [],
@@ -662,7 +662,7 @@ var dateInfo = {
         minutes: [],
     },
     mar22: {
-        planets: ['Venus', 'Jupiter', 'Saturn', 'Neptune', 'Pluto'],
+        planets: ['VENUS', 'JUPITER', 'SATURN', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Retrograde', 'In RX Zone', 'In RX Zone', 'In Rx Zone'],
         time: [],
         sign: [],
@@ -670,7 +670,7 @@ var dateInfo = {
         minutes: [],
     },
     mar23: {
-        planets: ['Venus', 'Jupiter', 'Saturn', 'Neptune', 'Pluto'],
+        planets: ['VENUS', 'JUPITER', 'SATURN', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Retrograde', 'In RX Zone', 'In RX Zone', 'In Rx Zone'],
         time: [],
         sign: [],
@@ -678,7 +678,7 @@ var dateInfo = {
         minutes: [],
     },
     mar23: {
-        planets: ['Venus', 'Jupiter', 'Saturn', 'Neptune', 'Pluto'],
+        planets: ['VENUS', 'JUPITER', 'SATURN', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Retrograde', 'In RX Zone', 'In RX Zone', 'In Rx Zone'],
         time: [],
         sign: [],
@@ -686,7 +686,7 @@ var dateInfo = {
         minutes: [],
     },
     mar24: {
-        planets: ['Venus', 'Jupiter', 'Saturn', 'Neptune', 'Pluto'],
+        planets: ['VENUS', 'JUPITER', 'SATURN', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Retrograde', 'In RX Zone', 'In RX Zone', 'In Rx Zone'],
         time: [],
         sign: [],
@@ -694,7 +694,7 @@ var dateInfo = {
         minutes: [],
     },
     mar25: {
-        planets: ['Venus', 'Jupiter', 'Saturn', 'Neptune', 'Pluto'],
+        planets: ['VENUS', 'JUPITER', 'SATURN', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Retrograde', 'In RX Zone', 'In RX Zone', 'In Rx Zone'],
         time: [],
         sign: [],
@@ -702,7 +702,7 @@ var dateInfo = {
         minutes: [],
     },
     mar26: {
-        planets: ['Venus', 'Jupiter', 'Saturn', 'Neptune', 'Pluto'],
+        planets: ['VENUS', 'JUPITER', 'SATURN', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Retrograde', 'In RX Zone', 'In RX Zone', 'In Rx Zone'],
         time: [],
         sign: [],
@@ -710,7 +710,7 @@ var dateInfo = {
         minutes: [],
     },
     mar27: {
-        planets: ['Mercury', 'Venus', 'Jupiter', 'Saturn', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'VENUS', 'JUPITER', 'SATURN', 'NEPTUNE', 'PLUTO'],
         direction: ['Enters RX Zone', 'Retrograde', 'Retrograde', 'In RX Zone', 'In RX Zone', 'In Rx Zone'],
         time: ['08:51 PM'],
         sign: ['Sagitarrius'],
@@ -718,7 +718,7 @@ var dateInfo = {
         minutes: ["00'"],
     },
     mar28: {
-        planets: ['Mercury', 'Venus', 'Jupiter', 'Saturn', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'VENUS', 'JUPITER', 'SATURN', 'NEPTUNE', 'PLUTO'],
         direction: ['In RX Zone', 'Retrograde', 'Retrograde', 'In RX Zone', 'In RX Zone', 'In Rx Zone'],
         time: [],
         sign: [],
@@ -726,7 +726,7 @@ var dateInfo = {
         minutes: [],
     },
     mar29: {
-        planets: ['Mercury', 'Venus', 'Jupiter', 'Saturn', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'VENUS', 'JUPITER', 'SATURN', 'NEPTUNE', 'PLUTO'],
         direction: ['In RX Zone', 'Retrograde', 'Retrograde', 'In RX Zone', 'In RX Zone', 'In Rx Zone'],
         time: [],
         sign: [],
@@ -734,7 +734,7 @@ var dateInfo = {
         minutes: [],
     },
     mar30: {
-        planets: ['Mercury', 'Venus', 'Jupiter', 'Saturn', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'VENUS', 'JUPITER', 'SATURN', 'NEPTUNE', 'PLUTO'],
         direction: ['In RX Zone', 'Retrograde', 'Retrograde', 'In RX Zone', 'In RX Zone', 'In Rx Zone'],
         time: [],
         sign: [],
@@ -742,7 +742,7 @@ var dateInfo = {
         minutes: [],
     },
     mar31: {
-        planets: ['Mercury', 'Venus', 'Jupiter', 'Saturn', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'VENUS', 'JUPITER', 'SATURN', 'NEPTUNE', 'PLUTO'],
         direction: ['In RX Zone', 'Retrograde', 'Retrograde', 'In RX Zone', 'In RX Zone', 'In Rx Zone'],
         time: [],
         sign: [],
@@ -752,7 +752,7 @@ var dateInfo = {
 
     // APRIL
     apr01: {
-        planets: ['Mercury', 'Venus', 'Jupiter', 'Saturn', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'VENUS', 'JUPITER', 'SATURN', 'NEPTUNE', 'PLUTO'],
         direction: ['In RX Zone', 'Retrograde', 'Retrograde', 'In RX Zone', 'In RX Zone', 'In Rx Zone'],
         time: [],
         sign: [],
@@ -760,7 +760,7 @@ var dateInfo = {
         minutes: [],
     },
     apr02: {
-        planets: ['Mercury', 'Venus', 'Jupiter', 'Saturn', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'VENUS', 'JUPITER', 'SATURN', 'NEPTUNE', 'PLUTO'],
         direction: ['In RX Zone', 'Retrograde', 'Retrograde', 'In RX Zone', 'In RX Zone', 'In Rx Zone'],
         time: [],
         sign: [],
@@ -768,7 +768,7 @@ var dateInfo = {
         minutes: [],
     },
     apr03: {
-        planets: ['Mercury', 'Venus', 'Jupiter', 'Saturn', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'VENUS', 'JUPITER', 'SATURN', 'NEPTUNE', 'PLUTO'],
         direction: ['In RX Zone', 'Retrograde', 'Retrograde', 'In RX Zone', 'In RX Zone', 'In Rx Zone'],
         time: [],
         sign: [],
@@ -776,7 +776,7 @@ var dateInfo = {
         minutes: [],
     },
     apr04: {
-        planets: ['Mercury', 'Venus', 'Jupiter', 'Saturn', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'VENUS', 'JUPITER', 'SATURN', 'NEPTUNE', 'PLUTO'],
         direction: ['In RX Zone', 'Retrograde', 'Retrograde', 'In RX Zone', 'In RX Zone', 'In Rx Zone'],
         time: [],
         sign: [],
@@ -784,7 +784,7 @@ var dateInfo = {
         minutes: [],
     },
     apr05: {
-        planets: ['Mercury', 'Venus', 'Jupiter', 'Saturn', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'VENUS', 'JUPITER', 'SATURN', 'NEPTUNE', 'PLUTO'],
         direction: ['In RX Zone', 'Retrograde', 'Retrograde', 'Stationary Retrograde', 'In RX Zone', 'In Rx Zone'],
         time: ['11:59 PM'],
         sign: ['Sagitarrius'],
@@ -792,7 +792,7 @@ var dateInfo = {
         minutes: ["48'"],
     },
     apr06: {
-        planets: ['Mercury', 'Venus', 'Jupiter', 'Saturn', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'VENUS', 'JUPITER', 'SATURN', 'NEPTUNE', 'PLUTO'],
         direction: ['In RX Zone', 'Retrograde', 'Retrograde', 'Retrograde', 'In RX Zone', 'In Rx Zone'],
         time: [],
         sign: [],
@@ -800,7 +800,7 @@ var dateInfo = {
         minutes: [],
     },
     apr07: {
-        planets: ['Mercury', 'Venus', 'Jupiter', 'Saturn', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'VENUS', 'JUPITER', 'SATURN', 'NEPTUNE', 'PLUTO'],
         direction: ['In RX Zone', 'Retrograde', 'Retrograde', 'Retrograde', 'In RX Zone', 'In Rx Zone'],
         time: [],
         sign: [],
@@ -808,7 +808,7 @@ var dateInfo = {
         minutes: [],
     },
     apr08: {
-        planets: ['Mercury', 'Venus', 'Jupiter', 'Saturn', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'VENUS', 'JUPITER', 'SATURN', 'NEPTUNE', 'PLUTO'],
         direction: ['In RX Zone', 'Retrograde', 'Retrograde', 'Retrograde', 'In RX Zone', 'In Rx Zone'],
         time: [],
         sign: [],
@@ -816,7 +816,7 @@ var dateInfo = {
         minutes: [],
     },
     apr09: {
-        planets: ['Mercury', 'Venus', 'Jupiter', 'Saturn', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'VENUS', 'JUPITER', 'SATURN', 'NEPTUNE', 'PLUTO'],
         direction: ['Stationary Retrograde', 'Retrograde', 'Retrograde', 'Retrograde', 'In RX Zone', 'In RX Zone'],
         time: ['07:05 PM'],
         sign: ['Taurus'],
@@ -824,7 +824,7 @@ var dateInfo = {
         minutes: ["51'"],
     },
     apr10: {
-        planets: ['Mercury', 'Venus', 'Jupiter', 'Saturn', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'VENUS', 'JUPITER', 'SATURN', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Retrograde', 'Retrograde', 'Retrograde', 'In RX Zone', 'In Rx Zone'],
         time: [],
         sign: [],
@@ -832,7 +832,7 @@ var dateInfo = {
         minutes: [],
     },
     apr11: {
-        planets: ['Mercury', 'Venus', 'Jupiter', 'Saturn', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'VENUS', 'JUPITER', 'SATURN', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Retrograde', 'Retrograde', 'Retrograde', 'In RX Zone', 'In Rx Zone'],
         time: [],
         sign: [],
@@ -840,7 +840,7 @@ var dateInfo = {
         minutes: [],
     },
     apr12: {
-        planets: ['Mercury', 'Venus', 'Jupiter', 'Saturn', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'VENUS', 'JUPITER', 'SATURN', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Retrograde', 'Retrograde', 'Retrograde', 'In RX Zone', 'In Rx Zone'],
         time: [],
         sign: [],
@@ -848,7 +848,7 @@ var dateInfo = {
         minutes: [],
     },
     apr13: {
-        planets: ['Mercury', 'Venus', 'Jupiter', 'Saturn', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'VENUS', 'JUPITER', 'SATURN', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Retrograde', 'Retrograde', 'Retrograde', 'In RX Zone', 'In Rx Zone'],
         time: [],
         sign: [],
@@ -856,7 +856,7 @@ var dateInfo = {
         minutes: [],
     },
     apr14: {
-        planets: ['Mercury', 'Venus', 'Jupiter', 'Saturn', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'VENUS', 'JUPITER', 'SATURN', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Retrograde', 'Retrograde', 'Retrograde', 'In RX Zone', 'In Rx Zone'],
         time: [],
         sign: [],
@@ -864,7 +864,7 @@ var dateInfo = {
         minutes: [],
     },
     apr15: {
-        planets: ['Mercury', 'Venus', 'Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'VENUS', 'JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Stationary Direct', 'Retrograde', 'Retrograde', 'Enters RX Zone', 'In RX Zone', 'In RX Zone'],
         time: ['06:16 AM', '11:25 PM'],
         sign: ['Pisces', 'Aries'],
@@ -872,7 +872,7 @@ var dateInfo = {
         minutes: ["55'", "34"]
     },
     apr16: {
-        planets: ['Mercury', 'Venus', 'Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'VENUS', 'JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Direct', 'Retrograde', 'Retrograde', 'In RX Zone', 'In RX Zone', 'In Rx Zone'],
         time: [],
         sign: [],
@@ -880,7 +880,7 @@ var dateInfo = {
         minutes: []
     },
     apr17: {
-        planets: ['Mercury', 'Venus', 'Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'VENUS', 'JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Direct', 'Retrograde', 'Retrograde', 'In RX Zone', 'In RX Zone', 'In Rx Zone'],
         time: [],
         sign: [],
@@ -888,7 +888,7 @@ var dateInfo = {
         minutes: []
     },
     apr18: {
-        planets: ['Mercury', 'Venus', 'Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'VENUS', 'JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Direct', 'Retrograde', 'Retrograde', 'In RX Zone', 'In RX Zone', 'In Rx Zone'],
         time: [],
         sign: [],
@@ -896,7 +896,7 @@ var dateInfo = {
         minutes: []
     },
     apr19: {
-        planets: ['Mercury', 'Venus', 'Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'VENUS', 'JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Direct', 'Retrograde', 'Retrograde', 'In RX Zone', 'In RX Zone', 'In Rx Zone'],
         time: [],
         sign: [],
@@ -904,7 +904,7 @@ var dateInfo = {
         minutes: []
     },
     apr20: {
-        planets: ['Mercury', 'Venus', 'Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'VENUS', 'JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Direct', 'Retrograde', 'Retrograde', 'In RX Zone', 'In RX Zone', 'Stationary Retrograde'],
         time: ['04:30 AM'],
         sign: ['Capricorn'],
@@ -912,7 +912,7 @@ var dateInfo = {
         minutes: ["24'"]
     },
     apr21: {
-        planets: ['Mercury', 'Venus', 'Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'VENUS', 'JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Direct', 'Retrograde', 'Retrograde', 'In RX Zone', 'In RX Zone', 'Retrograde'],
         time: [],
         sign: [],
@@ -920,7 +920,7 @@ var dateInfo = {
         minutes: []
     },
     apr22: {
-        planets: ['Mercury', 'Venus', 'Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'VENUS', 'JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Direct', 'Retrograde', 'Retrograde', 'In RX Zone', 'In RX Zone', 'Retrograde'],
         time: [],
         sign: [],
@@ -928,7 +928,7 @@ var dateInfo = {
         minutes: []
     },
     apr23: {
-        planets: ['Mercury', 'Venus', 'Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'VENUS', 'JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Direct', 'Retrograde', 'Retrograde', 'In RX Zone', 'In RX Zone', 'Retrograde'],
         time: [],
         sign: [],
@@ -936,7 +936,7 @@ var dateInfo = {
         minutes: []
     },
     apr23: {
-        planets: ['Mercury', 'Venus', 'Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'VENUS', 'JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Direct', 'Retrograde', 'Retrograde', 'In RX Zone', 'In RX Zone', 'Retrograde'],
         time: [],
         sign: [],
@@ -944,7 +944,7 @@ var dateInfo = {
         minutes: []
     },
     apr24: {
-        planets: ['Mercury', 'Venus', 'Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'VENUS', 'JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Direct', 'Retrograde', 'Retrograde', 'In RX Zone', 'In RX Zone', 'Retrograde'],
         time: [],
         sign: [],
@@ -952,7 +952,7 @@ var dateInfo = {
         minutes: []
     },
     apr25: {
-        planets: ['Mercury', 'Venus', 'Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'VENUS', 'JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Direct', 'Retrograde', 'Retrograde', 'In RX Zone', 'In RX Zone', 'Retrograde'],
         time: [],
         sign: [],
@@ -960,7 +960,7 @@ var dateInfo = {
         minutes: []
     },
     apr26: {
-        planets: ['Mercury', 'Venus', 'Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'VENUS', 'JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Direct', 'Retrograde', 'Retrograde', 'In RX Zone', 'In RX Zone', 'Retrograde'],
         time: [],
         sign: [],
@@ -968,7 +968,7 @@ var dateInfo = {
         minutes: []
     },
     apr27: {
-        planets: ['Mercury', 'Venus', 'Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'VENUS', 'JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Direct', 'Retrograde', 'Retrograde', 'In RX Zone', 'In RX Zone', 'Retrograde'],
         time: [],
         sign: [],
@@ -976,7 +976,7 @@ var dateInfo = {
         minutes: []
     },
     apr28: {
-        planets: ['Mercury', 'Venus', 'Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'VENUS', 'JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Direct', 'Retrograde', 'Retrograde', 'In RX Zone', 'In RX Zone', 'Retrograde'],
         time: [],
         sign: [],
@@ -984,7 +984,7 @@ var dateInfo = {
         minutes: []
     },
     apr29: {
-        planets: ['Mercury', 'Venus', 'Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'VENUS', 'JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Direct', 'Retrograde', 'Retrograde', 'In RX Zone', 'In RX Zone', 'Retrograde'],
         time: [],
         sign: [],
@@ -992,7 +992,7 @@ var dateInfo = {
         minutes: []
     },
     apr30: {
-        planets: ['Mercury', 'Venus', 'Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'VENUS', 'JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Direct', 'Retrograde', 'Retrograde', 'In RX Zone', 'In RX Zone', 'Retrograde'],
         time: [],
         sign: [],
@@ -1002,7 +1002,7 @@ var dateInfo = {
 
     // MAY
     may01: {
-        planets: ['Mercury', 'Venus', 'Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'VENUS', 'JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Direct', 'Retrograde', 'Retrograde', 'In RX Zone', 'In RX Zone', 'Retrograde'],
         time: [],
         sign: [],
@@ -1010,7 +1010,7 @@ var dateInfo = {
         minutes: []
     },
     may02: {
-        planets: ['Mercury', 'Venus', 'Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'VENUS', 'JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Direct', 'Retrograde', 'Retrograde', 'In RX Zone', 'In RX Zone', 'Retrograde'],
         time: [],
         sign: [],
@@ -1018,7 +1018,7 @@ var dateInfo = {
         minutes: []
     },
     may03: {
-        planets: ['Mercury', 'Venus', 'Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'VENUS', 'JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Stationary Direct', 'Direct', 'Retrograde', 'Retrograde', 'In RX Zone', 'In RX Zone', 'Retrograde'],
         time: ['12:29 PM'],
         sign: ['Aries'],
@@ -1026,7 +1026,7 @@ var dateInfo = {
         minutes: ["16'"]
     },
     may04: {
-        planets: ['Mercury', 'Venus', 'Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'VENUS', 'JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Direct', 'Retrograde', 'Retrograde', 'In RX Zone', 'In RX Zone', 'Retrograde'],
         time: [],
         sign: [],
@@ -1034,7 +1034,7 @@ var dateInfo = {
         minutes: []
     },
     may05: {
-        planets: ['Mercury', 'Venus', 'Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'VENUS', 'JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Direct', 'Retrograde', 'Retrograde', 'In RX Zone', 'In RX Zone', 'Retrograde'],
         time: [],
         sign: [],
@@ -1042,7 +1042,7 @@ var dateInfo = {
         minutes: []
     },
     may06: {
-        planets: ['Mercury', 'Venus', 'Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'VENUS', 'JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Direct', 'Retrograde', 'Retrograde', 'In RX Zone', 'In RX Zone', 'Retrograde'],
         time: [],
         sign: [],
@@ -1050,7 +1050,7 @@ var dateInfo = {
         minutes: []
     },
     may07: {
-        planets: ['Mercury', 'Venus', 'Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'VENUS', 'JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Direct', 'Retrograde', 'Retrograde', 'In RX Zone', 'In RX Zone', 'Retrograde'],
         time: [],
         sign: [],
@@ -1058,7 +1058,7 @@ var dateInfo = {
         minutes: []
     },
     may08: {
-        planets: ['Mercury', 'Venus', 'Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'VENUS', 'JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Direct', 'Retrograde', 'Retrograde', 'In RX Zone', 'In RX Zone', 'Retrograde'],
         time: [],
         sign: [],
@@ -1066,7 +1066,7 @@ var dateInfo = {
         minutes: []
     },
     may09: {
-        planets: ['Mercury', 'Venus', 'Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'VENUS', 'JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Direct', 'Retrograde', 'Retrograde', 'In RX Zone', 'In RX Zone', 'Retrograde'],
         time: [],
         sign: [],
@@ -1074,7 +1074,7 @@ var dateInfo = {
         minutes: []
     },
     may10: {
-        planets: ['Mercury', 'Venus', 'Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'VENUS', 'JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Direct', 'Retrograde', 'Retrograde', 'In RX Zone', 'In RX Zone', 'Retrograde'],
         time: [],
         sign: [],
@@ -1082,7 +1082,7 @@ var dateInfo = {
         minutes: []
     },
     may11: {
-        planets: ['Mercury', 'Venus', 'Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'VENUS', 'JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Direct', 'Retrograde', 'Retrograde', 'In RX Zone', 'In RX Zone', 'Retrograde'],
         time: [],
         sign: [],
@@ -1090,7 +1090,7 @@ var dateInfo = {
         minutes: []
     },
     may12: {
-        planets: ['Mercury', 'Venus', 'Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'VENUS', 'JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Direct', 'Retrograde', 'Retrograde', 'In RX Zone', 'In RX Zone', 'Retrograde'],
         time: [],
         sign: [],
@@ -1098,7 +1098,7 @@ var dateInfo = {
         minutes: []
     },
     may13: {
-        planets: ['Mercury', 'Venus', 'Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'VENUS', 'JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Direct', 'Retrograde', 'Retrograde', 'In RX Zone', 'In RX Zone', 'Retrograde'],
         time: [],
         sign: [],
@@ -1106,7 +1106,7 @@ var dateInfo = {
         minutes: []
     },
     may14: {
-        planets: ['Mercury', 'Venus', 'Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'VENUS', 'JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Direct', 'Retrograde', 'Retrograde', 'In RX Zone', 'In RX Zone', 'Retrograde'],
         time: [],
         sign: [],
@@ -1114,7 +1114,7 @@ var dateInfo = {
         minutes: []
     },
     may15: {
-        planets: ['Mercury', 'Venus', 'Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'VENUS', 'JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Direct', 'Retrograde', 'Retrograde', 'In RX Zone', 'In RX Zone', 'Retrograde'],
         time: [],
         sign: [],
@@ -1122,7 +1122,7 @@ var dateInfo = {
         minutes: []
     },
     may16: {
-        planets: ['Mercury', 'Venus', 'Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'VENUS', 'JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Direct', 'Retrograde', 'Retrograde', 'In RX Zone', 'In RX Zone', 'Retrograde'],
         time: [],
         sign: [],
@@ -1130,7 +1130,7 @@ var dateInfo = {
         minutes: []
     },
     may17: {
-        planets: ['Mercury', 'Venus', 'Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'VENUS', 'JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Direct', 'Retrograde', 'Retrograde', 'In RX Zone', 'In RX Zone', 'Retrograde'],
         time: [],
         sign: [],
@@ -1138,7 +1138,7 @@ var dateInfo = {
         minutes: []
     },
     may18: {
-        planets: ['Mercury', 'Venus', 'Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'VENUS', 'JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Leave RX Zone', 'Retrograde', 'Retrograde', 'In RX Zone', 'In RX Zone', 'Retrograde'],
         time: ['12:56 PM'],
         sign: ['Aries'],
@@ -1146,7 +1146,7 @@ var dateInfo = {
         minutes: ["9'"]
     },
     may19: {
-        planets: ['Mercury', 'Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'Retrograde', 'In RX Zone', 'In RX Zone', 'Retrograde'],
         time: [],
         sign: [],
@@ -1154,7 +1154,7 @@ var dateInfo = {
         minutes: [],
     },
     may20: {
-        planets: ['Mercury', 'Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Leaves RX Zone', 'Retrograde', 'Retrograde', 'In RX Zone', 'In RX Zone', 'Retrograde'],
         time: ['09:00 PM'],
         sign: ['Taurus'],
@@ -1162,7 +1162,7 @@ var dateInfo = {
         minutes: ["51'"],
     },
     may21: {
-        planets: ['Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Retrograde', 'In RX Zone', 'In RX Zone', 'Retrograde'],
         time: [],
         sign: [],
@@ -1170,7 +1170,7 @@ var dateInfo = {
         minutes: [],
     },
     may22: {
-        planets: ['Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Retrograde', 'In RX Zone', 'In RX Zone', 'Retrograde'],
         time: [],
         sign: [],
@@ -1178,7 +1178,7 @@ var dateInfo = {
         minutes: [],
     },
     may23: {
-        planets: ['Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Retrograde', 'In RX Zone', 'In RX Zone', 'Retrograde'],
         time: [],
         sign: [],
@@ -1186,7 +1186,7 @@ var dateInfo = {
         minutes: [],
     },
     may23: {
-        planets: ['Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Retrograde', 'In RX Zone', 'In RX Zone', 'Retrograde'],
         time: [],
         sign: [],
@@ -1194,7 +1194,7 @@ var dateInfo = {
         minutes: [],
     },
     may24: {
-        planets: ['Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Retrograde', 'In RX Zone', 'In RX Zone', 'Retrograde'],
         time: [],
         sign: [],
@@ -1202,7 +1202,7 @@ var dateInfo = {
         minutes: [],
     },
     may25: {
-        planets: ['Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Retrograde', 'In RX Zone', 'In RX Zone', 'Retrograde'],
         time: [],
         sign: [],
@@ -1210,7 +1210,7 @@ var dateInfo = {
         minutes: [],
     },
     may26: {
-        planets: ['Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Retrograde', 'In RX Zone', 'In RX Zone', 'Retrograde'],
         time: [],
         sign: [],
@@ -1218,7 +1218,7 @@ var dateInfo = {
         minutes: [],
     },
     may27: {
-        planets: ['Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Retrograde', 'In RX Zone', 'In RX Zone', 'Retrograde'],
         time: [],
         sign: [],
@@ -1226,7 +1226,7 @@ var dateInfo = {
         minutes: [],
     },
     may28: {
-        planets: ['Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Retrograde', 'In RX Zone', 'In RX Zone', 'Retrograde'],
         time: [],
         sign: [],
@@ -1234,7 +1234,7 @@ var dateInfo = {
         minutes: [],
     },
     may29: {
-        planets: ['Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Retrograde', 'In RX Zone', 'In RX Zone', 'Retrograde'],
         time: [],
         sign: [],
@@ -1242,7 +1242,7 @@ var dateInfo = {
         minutes: [],
     },
     may30: {
-        planets: ['Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Retrograde', 'In RX Zone', 'In RX Zone', 'Retrograde'],
         time: [],
         sign: [],
@@ -1250,7 +1250,7 @@ var dateInfo = {
         minutes: [],
     },
     may31: {
-        planets: ['Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Retrograde', 'In RX Zone', 'In RX Zone', 'Retrograde'],
         time: [],
         sign: [],
@@ -1260,7 +1260,7 @@ var dateInfo = {
 
     // JUNE
     jun01: {
-        planets: ['Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Retrograde', 'In RX Zone', 'In RX Zone', 'Retrograde'],
         time: [],
         sign: [],
@@ -1268,7 +1268,7 @@ var dateInfo = {
         minutes: [],
     },
     jun02: {
-        planets: ['Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Retrograde', 'In RX Zone', 'In RX Zone', 'Retrograde'],
         time: [],
         sign: [],
@@ -1276,7 +1276,7 @@ var dateInfo = {
         minutes: [],
     },
     jun03: {
-        planets: ['Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Retrograde', 'In RX Zone', 'In RX Zone', 'Retrograde'],
         time: [],
         sign: [],
@@ -1284,7 +1284,7 @@ var dateInfo = {
         minutes: [],
     },
     jun04: {
-        planets: ['Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Retrograde', 'In RX Zone', 'In RX Zone', 'Retrograde'],
         time: [],
         sign: [],
@@ -1292,7 +1292,7 @@ var dateInfo = {
         minutes: [],
     },
     jun05: {
-        planets: ['Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Retrograde', 'In RX Zone', 'In RX Zone', 'Retrograde'],
         time: [],
         sign: [],
@@ -1300,7 +1300,7 @@ var dateInfo = {
         minutes: [],
     },
     jun06: {
-        planets: ['Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Retrograde', 'In RX Zone', 'In RX Zone', 'Retrograde'],
         time: [],
         sign: [],
@@ -1308,7 +1308,7 @@ var dateInfo = {
         minutes: [],
     },
     jun07: {
-        planets: ['Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Retrograde', 'In RX Zone', 'In RX Zone', 'Retrograde'],
         time: [],
         sign: [],
@@ -1316,7 +1316,7 @@ var dateInfo = {
         minutes: [],
     },
     jun08: {
-        planets: ['Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Retrograde', 'In RX Zone', 'In RX Zone', 'Retrograde'],
         time: [],
         sign: [],
@@ -1324,7 +1324,7 @@ var dateInfo = {
         minutes: [],
     },
     jun09: {
-        planets: ['Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Stationary Direct', 'Retrograde', 'In RX Zone', 'In RX Zone', 'Retrograde'],
         time: ['10:04 AM'],
         sign: ['Libra'],
@@ -1332,7 +1332,7 @@ var dateInfo = {
         minutes: ["13'"],
     },
     jun10: {
-        planets: ['Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'In RX Zone', 'In RX Zone', 'Retrograde'],
         time: [],
         sign: [],
@@ -1340,7 +1340,7 @@ var dateInfo = {
         minutes: [],
     },
     jun11: {
-        planets: ['Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'In RX Zone', 'In RX Zone', 'Retrograde'],
         time: [],
         sign: [],
@@ -1348,7 +1348,7 @@ var dateInfo = {
         minutes: [],
     },
     jun12: {
-        planets: ['Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'In RX Zone', 'In RX Zone', 'Retrograde'],
         time: [],
         sign: [],
@@ -1356,7 +1356,7 @@ var dateInfo = {
         minutes: [],
     },
     jun13: {
-        planets: ['Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'In RX Zone', 'In RX Zone', 'Retrograde'],
         time: [],
         sign: [],
@@ -1364,7 +1364,7 @@ var dateInfo = {
         minutes: [],
     },
     jun14: {
-        planets: ['Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'In RX Zone', 'In RX Zone', 'Retrograde'],
         time: [],
         sign: [],
@@ -1372,7 +1372,7 @@ var dateInfo = {
         minutes: [],
     },
     jun15: {
-        planets: ['Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'In RX Zone', 'In RX Zone', 'Retrograde'],
         time: [],
         sign: [],
@@ -1380,7 +1380,7 @@ var dateInfo = {
         minutes: [],
     },
     jun16: {
-        planets: ['Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'In RX Zone', 'Stationary Retrograde', 'Retrograde'],
         time: ['03:29 AM'],
         sign: ['Pisces'],
@@ -1388,7 +1388,7 @@ var dateInfo = {
         minutes: ["16'"],
     },
     jun17: {
-        planets: ['Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'In RX Zone', 'Retrograde', 'Retrograde'],
         time: [],
         sign: [],
@@ -1396,7 +1396,7 @@ var dateInfo = {
         minutes: [],
     },
     jun18: {
-        planets: ['Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'In RX Zone', 'Retrograde', 'Retrograde'],
         time: [],
         sign: [],
@@ -1404,7 +1404,7 @@ var dateInfo = {
         minutes: [],
     },
     jun19: {
-        planets: ['Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'In RX Zone', 'Retrograde', 'Retrograde'],
         time: [],
         sign: [],
@@ -1412,7 +1412,7 @@ var dateInfo = {
         minutes: [],
     },
     jun20: {
-        planets: ['Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'In RX Zone', 'Retrograde', 'Retrograde'],
         time: [],
         sign: [],
@@ -1420,7 +1420,7 @@ var dateInfo = {
         minutes: [],
     },
     jun21: {
-        planets: ['Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'In RX Zone', 'Retrograde', 'Retrograde'],
         time: [],
         sign: [],
@@ -1428,7 +1428,7 @@ var dateInfo = {
         minutes: [],
     },
     jun22: {
-        planets: ['Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'In RX Zone', 'Retrograde', 'Retrograde'],
         time: [],
         sign: [],
@@ -1436,7 +1436,7 @@ var dateInfo = {
         minutes: [],
     },
     jun23: {
-        planets: ['Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'In RX Zone', 'Retrograde', 'Retrograde'],
         time: [],
         sign: [],
@@ -1444,7 +1444,7 @@ var dateInfo = {
         minutes: [],
     },
     jun23: {
-        planets: ['Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'In RX Zone', 'Retrograde', 'Retrograde'],
         time: [],
         sign: [],
@@ -1452,7 +1452,7 @@ var dateInfo = {
         minutes: [],
     },
     jun24: {
-        planets: ['Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'In RX Zone', 'Retrograde', 'Retrograde'],
         time: [],
         sign: [],
@@ -1460,7 +1460,7 @@ var dateInfo = {
         minutes: [],
     },
     jun25: {
-        planets: ['Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'In RX Zone', 'Retrograde', 'Retrograde'],
         time: [],
         sign: [],
@@ -1468,7 +1468,7 @@ var dateInfo = {
         minutes: [],
     },
     jun26: {
-        planets: ['Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'In RX Zone', 'Retrograde', 'Retrograde'],
         time: [],
         sign: [],
@@ -1476,7 +1476,7 @@ var dateInfo = {
         minutes: [],
     },
     jun27: {
-        planets: ['Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'In RX Zone', 'Retrograde', 'Retrograde'],
         time: [],
         sign: [],
@@ -1484,7 +1484,7 @@ var dateInfo = {
         minutes: [],
     },
     jun28: {
-        planets: ['Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'In RX Zone', 'Retrograde', 'Retrograde'],
         time: [],
         sign: [],
@@ -1492,7 +1492,7 @@ var dateInfo = {
         minutes: [],
     },
     jun29: {
-        planets: ['Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'In RX Zone', 'Retrograde', 'Retrograde'],
         time: [],
         sign: [],
@@ -1500,7 +1500,7 @@ var dateInfo = {
         minutes: [],
     },
     jun30: {
-        planets: ['Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'In RX Zone', 'Retrograde', 'Retrograde'],
         time: [],
         sign: [],
@@ -1510,7 +1510,7 @@ var dateInfo = {
 
     // JULY
     jul01: {
-        planets: ['Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'In RX Zone', 'Retrograde', 'Retrograde'],
         time: [],
         sign: [],
@@ -1518,7 +1518,7 @@ var dateInfo = {
         minutes: [],
     },
     jul02: {
-        planets: ['Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'In RX Zone', 'Retrograde', 'Retrograde'],
         time: [],
         sign: [],
@@ -1526,7 +1526,7 @@ var dateInfo = {
         minutes: [],
     },
     jul03: {
-        planets: ['Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'In RX Zone', 'Retrograde', 'Retrograde'],
         time: [],
         sign: [],
@@ -1534,7 +1534,7 @@ var dateInfo = {
         minutes: [],
     },
     jul04: {
-        planets: ['Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'In RX Zone', 'Retrograde', 'Retrograde'],
         time: [],
         sign: [],
@@ -1542,7 +1542,7 @@ var dateInfo = {
         minutes: [],
     },
     jul05: {
-        planets: ['Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'In RX Zone', 'Retrograde', 'Retrograde'],
         time: [],
         sign: [],
@@ -1550,7 +1550,7 @@ var dateInfo = {
         minutes: [],
     },
     jul06: {
-        planets: ['Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'In RX Zone', 'Retrograde', 'Retrograde'],
         time: [],
         sign: [],
@@ -1558,7 +1558,7 @@ var dateInfo = {
         minutes: [],
     },
     jul07: {
-        planets: ['Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'In RX Zone', 'Retrograde', 'Retrograde'],
         time: [],
         sign: [],
@@ -1566,7 +1566,7 @@ var dateInfo = {
         minutes: [],
     },
     jul08: {
-        planets: ['Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'In RX Zone', 'Retrograde', 'Retrograde'],
         time: [],
         sign: [],
@@ -1574,7 +1574,7 @@ var dateInfo = {
         minutes: [],
     },
     jul09: {
-        planets: ['Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'In RX Zone', 'Retrograde', 'Retrograde'],
         time: [],
         sign: [],
@@ -1582,7 +1582,7 @@ var dateInfo = {
         minutes: [],
     },
     jul10: {
-        planets: ['Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto',],
+        planets: ['JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO',],
         direction: ['Direct', 'Retrograde', 'In RX Zone', 'Retrograde', 'Retrograde'],
         time: [],
         sign: [],
@@ -1590,7 +1590,7 @@ var dateInfo = {
         minutes: [],
     },
     jul11: {
-        planets: ['Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'In RX Zone', 'Retrograde', 'Retrograde'],
         time: [],
         sign: [],
@@ -1598,7 +1598,7 @@ var dateInfo = {
         minutes: [],
     },
     jul12: {
-        planets: ['Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'In RX Zone', 'Retrograde', 'Retrograde'],
         time: [],
         sign: [],
@@ -1606,7 +1606,7 @@ var dateInfo = {
         minutes: [],
     },
     jul13: {
-        planets: ['Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'In RX Zone', 'Retrograde', 'Retrograde'],
         time: [],
         sign: [],
@@ -1614,7 +1614,7 @@ var dateInfo = {
         minutes: [],
     },
     jul14: {
-        planets: ['Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'In RX Zone', 'Retrograde', 'Retrograde'],
         time: [],
         sign: [],
@@ -1622,7 +1622,7 @@ var dateInfo = {
         minutes: [],
     },
     jul15: {
-        planets: ['Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'In RX Zone', 'Retrograde', 'Retrograde'],
         time: [],
         sign: [],
@@ -1630,7 +1630,7 @@ var dateInfo = {
         minutes: [],
     },
     jul16: {
-        planets: ['Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'In RX Zone', 'Retrograde', 'Retrograde'],
         time: [],
         sign: [],
@@ -1638,7 +1638,7 @@ var dateInfo = {
         minutes: [],
     },
     jul17: {
-        planets: ['Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'In RX Zone', 'Retrograde', 'Retrograde'],
         time: [],
         sign: [],
@@ -1646,7 +1646,7 @@ var dateInfo = {
         minutes: [],
     },
     jul18: {
-        planets: ['Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'In RX Zone', 'Retrograde', 'Retrograde'],
         time: [],
         sign: [],
@@ -1654,7 +1654,7 @@ var dateInfo = {
         minutes: [],
     },
     jul19: {
-        planets: ['Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'In RX Zone', 'Retrograde', 'Retrograde'],
         time: [],
         sign: [],
@@ -1662,7 +1662,7 @@ var dateInfo = {
         minutes: [],
     },
     jul20: {
-        planets: ['Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'In RX Zone', 'Retrograde', 'Retrograde'],
         time: [],
         sign: [],
@@ -1670,7 +1670,7 @@ var dateInfo = {
         minutes: [],
     },
     jul21: {
-        planets: ['Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'In RX Zone', 'Retrograde', 'Retrograde'],
         time: [],
         sign: [],
@@ -1678,7 +1678,7 @@ var dateInfo = {
         minutes: [],
     },
     jul22: {
-        planets: ['Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'In RX Zone', 'Retrograde', 'Retrograde'],
         time: [],
         sign: [],
@@ -1686,7 +1686,7 @@ var dateInfo = {
         minutes: [],
     },
     jul23: {
-        planets: ['Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'In RX Zone', 'Retrograde', 'Retrograde'],
         time: [],
         sign: [],
@@ -1694,7 +1694,7 @@ var dateInfo = {
         minutes: [],
     },
     jul24: {
-        planets: ['Mercury', 'Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Enters RX Zone', 'Direct', 'Retrograde', 'In RX Zone', 'Retrograde', 'Retrograde'],
         time: ['11:15 AM'],
         sign: ['Leo'],
@@ -1702,7 +1702,7 @@ var dateInfo = {
         minutes: ["25'"],
     },
     jul25: {
-        planets: ['Mercury', 'Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['In RX Zone', 'Direct', 'Retrograde', 'In RX Zone', 'Retrograde', 'Retrograde'],
         time: [],
         sign: [],
@@ -1710,7 +1710,7 @@ var dateInfo = {
         minutes: [],
     },
     jul26: {
-        planets: ['Mercury', 'Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['In RX Zone', 'Direct', 'Retrograde', 'In RX Zone', 'Retrograde', 'Retrograde'],
         time: [],
         sign: [],
@@ -1718,7 +1718,7 @@ var dateInfo = {
         minutes: [],
     },
     jul27: {
-        planets: ['Mercury', 'Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['In RX Zone', 'Direct', 'Retrograde', 'In RX Zone', 'Retrograde', 'Retrograde'],
         time: [],
         sign: [],
@@ -1726,7 +1726,7 @@ var dateInfo = {
         minutes: [],
     },
     jul28: {
-        planets: ['Mercury', 'Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['In RX Zone', 'Direct', 'Retrograde', 'In RX Zone', 'Retrograde', 'Retrograde'],
         time: [],
         sign: [],
@@ -1734,7 +1734,7 @@ var dateInfo = {
         minutes: [],
     },
     jul29: {
-        planets: ['Mercury', 'Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['In RX Zone', 'Direct', 'Retrograde', 'In RX Zone', 'Retrograde', 'Retrograde'],
         time: [],
         sign: [],
@@ -1742,7 +1742,7 @@ var dateInfo = {
         minutes: [],
     },
     jul30: {
-        planets: ['Mercury', 'Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['In RX Zone', 'Direct', 'Retrograde', 'In RX Zone', 'Retrograde', 'Retrograde'],
         time: [],
         sign: [],
@@ -1750,7 +1750,7 @@ var dateInfo = {
         minutes: [],
     },
     jul31: {
-        planets: ['Mercury', 'Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['In RX Zone', 'Direct', 'Retrograde', 'In RX Zone', 'Retrograde', 'Retrograde'],
         time: [],
         sign: [],
@@ -1760,7 +1760,7 @@ var dateInfo = {
 
     // AUGUST
     aug01: {
-        planets: ['Mercury', 'Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['In RX Zone', 'Direct', 'Retrograde', 'In RX Zone', 'Retrograde', 'Retrograde'],
         time: [],
         sign: [],
@@ -1768,7 +1768,7 @@ var dateInfo = {
         minutes: [],
     },
     aug02: {
-        planets: ['Mercury', 'Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['In RX Zone', 'Direct', 'Retrograde', 'Stationary Retrograde', 'Retrograde', 'Retrograde'],
         time: ['10:23 PM'],
         sign: ['Aries'],
@@ -1776,7 +1776,7 @@ var dateInfo = {
         minutes: ["32'"],
     },
     aug03: {
-        planets: ['Mercury', 'Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['In RX Zone', 'Direct', 'Retrograde', 'Retrograde', 'Retrograde', 'Retrograde'],
         time: [],
         sign: [],
@@ -1784,7 +1784,7 @@ var dateInfo = {
         minutes: [],
     },
     aug04: {
-        planets: ['Mercury', 'Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['In RX Zone', 'Direct', 'Retrograde', 'Retrograde', 'Retrograde', 'Retrograde'],
         time: [],
         sign: [],
@@ -1792,7 +1792,7 @@ var dateInfo = {
         minutes: [],
     },
     aug05: {
-        planets: ['Mercury', 'Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['In RX Zone', 'Direct', 'Retrograde', 'Retrograde', 'Retrograde', 'Retrograde'],
         time: [],
         sign: [],
@@ -1800,7 +1800,7 @@ var dateInfo = {
         minutes: [],
     },
     aug06: {
-        planets: ['Mercury', 'Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['In RX Zone', 'Direct', 'Retrograde', 'Retrograde', 'Retrograde', 'Retrograde'],
         time: [],
         sign: [],
@@ -1808,7 +1808,7 @@ var dateInfo = {
         minutes: [],
     },
     aug07: {
-        planets: ['Mercury', 'Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['In RX Zone', 'Direct', 'Retrograde', 'Retrograde', 'Retrograde', 'Retrograde'],
         time: [],
         sign: [],
@@ -1816,7 +1816,7 @@ var dateInfo = {
         minutes: [],
     },
     aug08: {
-        planets: ['Mercury', 'Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['In RX Zone', 'Direct', 'Retrograde', 'Retrograde', 'Retrograde', 'Retrograde'],
         time: [],
         sign: [],
@@ -1824,7 +1824,7 @@ var dateInfo = {
         minutes: [],
     },
     aug09: {
-        planets: ['Mercury', 'Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['In RX Zone', 'Direct', 'Retrograde', 'Retrograde', 'Retrograde', 'Retrograde'],
         time: [],
         sign: [],
@@ -1832,7 +1832,7 @@ var dateInfo = {
         minutes: [],
     },
     aug10: {
-        planets: ['Mercury', 'Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['In RX Zone', 'Direct', 'Retrograde', 'Retrograde', 'Retrograde', 'Retrograde'],
         time: [],
         sign: [],
@@ -1840,7 +1840,7 @@ var dateInfo = {
         minutes: [],
     },
     aug11: {
-        planets: ['Mercury', 'Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['In RX Zone', 'Direct', 'Retrograde', 'Retrograde', 'Retrograde', 'Retrograde'],
         time: [],
         sign: [],
@@ -1848,7 +1848,7 @@ var dateInfo = {
         minutes: [],
     },
     aug12: {
-        planets: ['Mercury', 'Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Stationary Retrograde', 'Direct', 'Retrograde', 'Retrograde', 'Retrograde', 'Retrograde'],
         time: ['08:56 PM'],
         sign: ['Virgo'],
@@ -1856,7 +1856,7 @@ var dateInfo = {
         minutes: ["25'"],
     },
     aug13: {
-        planets: ['Mercury', 'Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Direct', 'Retrograde', 'Retrograde', 'Retrograde', 'Retrograde'],
         time: [],
         sign: [],
@@ -1864,7 +1864,7 @@ var dateInfo = {
         minutes: [],
     },
     aug14: {
-        planets: ['Mercury', 'Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Direct', 'Retrograde', 'Retrograde', 'Retrograde', 'Retrograde'],
         time: [],
         sign: [],
@@ -1872,7 +1872,7 @@ var dateInfo = {
         minutes: [],
     },
     aug15: {
-        planets: ['Mercury', 'Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Direct', 'Retrograde', 'Retrograde', 'Retrograde', 'Retrograde'],
         time: [],
         sign: [],
@@ -1880,7 +1880,7 @@ var dateInfo = {
         minutes: [],
     },
     aug16: {
-        planets: ['Mercury', 'Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Direct', 'Retrograde', 'Retrograde', 'Retrograde', 'Retrograde'],
         time: [],
         sign: [],
@@ -1888,7 +1888,7 @@ var dateInfo = {
         minutes: [],
     },
     aug17: {
-        planets: ['Mercury', 'Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Direct', 'Retrograde', 'Retrograde', 'Retrograde', 'Retrograde'],
         time: [],
         sign: [],
@@ -1896,7 +1896,7 @@ var dateInfo = {
         minutes: [],
     },
     aug18: {
-        planets: ['Mercury', 'Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Direct', 'Retrograde', 'Retrograde', 'Retrograde', 'Retrograde'],
         time: [],
         sign: [],
@@ -1904,7 +1904,7 @@ var dateInfo = {
         minutes: [],
     },
     aug19: {
-        planets: ['Mercury', 'Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Direct', 'Retrograde', 'Retrograde', 'Retrograde', 'Retrograde'],
         time: [],
         sign: [],
@@ -1912,7 +1912,7 @@ var dateInfo = {
         minutes: [],
     },
     aug20: {
-        planets: ['Mercury', 'Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Direct', 'Retrograde', 'Retrograde', 'Retrograde', 'Retrograde'],
         time: [],
         sign: [],
@@ -1920,7 +1920,7 @@ var dateInfo = {
         minutes: [],
     },
     aug21: {
-        planets: ['Mercury', 'Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Direct', 'Retrograde', 'Retrograde', 'Retrograde', 'Retrograde'],
         time: [],
         sign: [],
@@ -1928,7 +1928,7 @@ var dateInfo = {
         minutes: [],
     },
     aug22: {
-        planets: ['Mercury', 'Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Direct', 'Retrograde', 'Retrograde', 'Retrograde', 'Retrograde'],
         time: [],
         sign: [],
@@ -1936,7 +1936,7 @@ var dateInfo = {
         minutes: [],
     },
     aug23: {
-        planets: ['Mercury', 'Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Direct', 'Retrograde', 'Retrograde', 'Retrograde', 'Retrograde'],
         time: [],
         sign: [],
@@ -1944,7 +1944,7 @@ var dateInfo = {
         minutes: [],
     },
     aug23: {
-        planets: ['Mercury', 'Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Direct', 'Retrograde', 'Retrograde', 'Retrograde', 'Retrograde'],
         time: [],
         sign: [],
@@ -1952,7 +1952,7 @@ var dateInfo = {
         minutes: [],
     },
     aug24: {
-        planets: ['Mercury', 'Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Direct', 'Retrograde', 'Retrograde', 'Retrograde', 'Retrograde'],
         time: [],
         sign: [],
@@ -1960,7 +1960,7 @@ var dateInfo = {
         minutes: [],
     },
     aug25: {
-        planets: ['Mercury', 'Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Direct', 'Stationary Direct', 'Retrograde', 'Retrograde', 'Retrograde'],
         time: ['06:12 AM'],
         sign: ['Sagitarrius'],
@@ -1968,7 +1968,7 @@ var dateInfo = {
         minutes: ["11'"],
     },
     aug26: {
-        planets: ['Mercury', 'Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Direct', 'Direct', 'Retrograde', 'Retrograde', 'Retrograde'],
         time: [],
         sign: [],
@@ -1976,7 +1976,7 @@ var dateInfo = {
         minutes: [],
     },
     aug27: {
-        planets: ['Mercury', 'Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Direct', 'Direct', 'Retrograde', 'Retrograde', 'Retrograde'],
         time: [],
         sign: [],
@@ -1984,7 +1984,7 @@ var dateInfo = {
         minutes: [],
     },
     aug28: {
-        planets: ['Mercury', 'Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Direct', 'Direct', 'Retrograde', 'Retrograde', 'Retrograde'],
         time: [],
         sign: [],
@@ -1992,7 +1992,7 @@ var dateInfo = {
         minutes: [],
     },
     aug29: {
-        planets: ['Mercury', 'Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Direct', 'Direct', 'Retrograde', 'Retrograde', 'Retrograde'],
         time: [],
         sign: [],
@@ -2000,7 +2000,7 @@ var dateInfo = {
         minutes: [],
     },
     aug30: {
-        planets: ['Mercury', 'Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Direct', 'Direct', 'Retrograde', 'Retrograde', 'Retrograde'],
         time: [],
         sign: [],
@@ -2008,7 +2008,7 @@ var dateInfo = {
         minutes: [],
     },
     aug31: {
-        planets: ['Mercury', 'Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Direct', 'Direct', 'Retrograde', 'Retrograde', 'Retrograde'],
         time: [],
         sign: [],
@@ -2018,7 +2018,7 @@ var dateInfo = {
 
     // SEPTEMBER
     sep01: {
-        planets: ['Mercury', 'Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Direct', 'Direct', 'Retrograde', 'Retrograde', 'Retrograde'],
         time: [],
         sign: [],
@@ -2026,7 +2026,7 @@ var dateInfo = {
         minutes: [],
     },
     sep02: {
-        planets: ['Mercury', 'Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Direct', 'Direct', 'Retrograde', 'Retrograde', 'Retrograde'],
         time: [],
         sign: [],
@@ -2034,7 +2034,7 @@ var dateInfo = {
         minutes: [],
     },
     sep03: {
-        planets: ['Mercury', 'Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Direct', 'Direct', 'Retrograde', 'Retrograde', 'Retrograde'],
         time: [],
         sign: [],
@@ -2042,7 +2042,7 @@ var dateInfo = {
         minutes: [],
     },
     sep04: {
-        planets: ['Mercury', 'Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Direct', 'Direct', 'Retrograde', 'Retrograde', 'Retrograde'],
         time: [],
         sign: [],
@@ -2050,7 +2050,7 @@ var dateInfo = {
         minutes: [],
     },
     sep05: {
-        planets: ['Mercury', 'Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Stationary Direct', 'Direct', 'Direct', 'Retrograde', 'Retrograde', 'Retrograde'],
         time: ['07:21 AM'],
         sign: ['Leo'],
@@ -2058,7 +2058,7 @@ var dateInfo = {
         minutes: ["25'"],
     },
     sep06: {
-        planets: ['Mercury', 'Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'JUPITER', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Leaves RX Zone', 'Direct', 'Retrograde', 'Retrograde', 'Retrograde'],
         time: ['10:11 PM'],
         sign: ['Libra'],
@@ -2066,7 +2066,7 @@ var dateInfo = {
         minutes: ["8'"],
     },
     sep07: {
-        planets: ['Mercury', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Direct', 'Retrograde', 'Retrograde', 'Retrograde'],
         time: [],
         sign: [],
@@ -2074,7 +2074,7 @@ var dateInfo = {
         minutes: [],
     },
     sep08: {
-        planets: ['Mercury', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Direct', 'Retrograde', 'Retrograde', 'Retrograde'],
         time: [],
         sign: [],
@@ -2082,7 +2082,7 @@ var dateInfo = {
         minutes: [],
     },
     sep09: {
-        planets: ['Mercury', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Direct', 'Retrograde', 'Retrograde', 'Retrograde'],
         time: [],
         sign: [],
@@ -2090,7 +2090,7 @@ var dateInfo = {
         minutes: [],
     },
     sep10: {
-        planets: ['Mercury', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Direct', 'Retrograde', 'Retrograde', 'Retrograde'],
         time: [],
         sign: [],
@@ -2098,7 +2098,7 @@ var dateInfo = {
         minutes: [],
     },
     sep11: {
-        planets: ['Mercury', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Direct', 'Retrograde', 'Retrograde', 'Retrograde'],
         time: [],
         sign: [],
@@ -2106,7 +2106,7 @@ var dateInfo = {
         minutes: [],
     },
     sep12: {
-        planets: ['Mercury', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Direct', 'Retrograde', 'Retrograde', 'Retrograde'],
         time: [],
         sign: [],
@@ -2114,7 +2114,7 @@ var dateInfo = {
         minutes: [],
     },
     sep13: {
-        planets: ['Mercury', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Direct', 'Retrograde', 'Retrograde', 'Retrograde'],
         time: [],
         sign: [],
@@ -2122,7 +2122,7 @@ var dateInfo = {
         minutes: [],
     },
     sep14: {
-        planets: ['Mercury', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Direct', 'Retrograde', 'Retrograde', 'Retrograde'],
         time: [],
         sign: [],
@@ -2130,7 +2130,7 @@ var dateInfo = {
         minutes: [],
     },
     sep15: {
-        planets: ['Mercury', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Direct', 'Retrograde', 'Retrograde', 'Retrograde'],
         time: [],
         sign: [],
@@ -2138,7 +2138,7 @@ var dateInfo = {
         minutes: [],
     },
     sep16: {
-        planets: ['Mercury', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Direct', 'Retrograde', 'Retrograde', 'Retrograde'],
         time: [],
         sign: [],
@@ -2146,7 +2146,7 @@ var dateInfo = {
         minutes: [],
     },
     sep17: {
-        planets: ['Mercury', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Direct', 'Retrograde', 'Retrograde', 'Retrograde'],
         time: [],
         sign: [],
@@ -2154,7 +2154,7 @@ var dateInfo = {
         minutes: [],
     },
     sep18: {
-        planets: ['Mercury', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Direct', 'Retrograde', 'Retrograde', 'Retrograde'],
         time: [],
         sign: [],
@@ -2162,7 +2162,7 @@ var dateInfo = {
         minutes: [],
     },
     sep19: {
-        planets: ['Mercury', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Leaves RX Zone', 'Direct', 'Retrograde', 'Retrograde', 'Retrograde'],
         time: ['12:01 PM'],
         sign: ['Virgo'],
@@ -2170,7 +2170,7 @@ var dateInfo = {
         minutes: ["25'"],
     },
     sep20: {
-        planets: ['Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'Retrograde', 'Retrograde'],
         time: [],
         sign: [],
@@ -2178,7 +2178,7 @@ var dateInfo = {
         minutes: [],
     },
     sep21: {
-        planets: ['Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'Retrograde', 'Retrograde'],
         time: [],
         sign: [],
@@ -2186,7 +2186,7 @@ var dateInfo = {
         minutes: [],
     },
     sep22: {
-        planets: ['Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'Retrograde', 'Retrograde'],
         time: [],
         sign: [],
@@ -2194,7 +2194,7 @@ var dateInfo = {
         minutes: [],
     },
     sep23: {
-        planets: ['Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'Retrograde', 'Retrograde'],
         time: [],
         sign: [],
@@ -2202,7 +2202,7 @@ var dateInfo = {
         minutes: [],
     },
     sep23: {
-        planets: ['Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'Retrograde', 'Retrograde'],
         time: [],
         sign: [],
@@ -2210,7 +2210,7 @@ var dateInfo = {
         minutes: [],
     },
     sep24: {
-        planets: ['Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'Retrograde', 'Retrograde'],
         time: [],
         sign: [],
@@ -2218,7 +2218,7 @@ var dateInfo = {
         minutes: [],
     },
     sep25: {
-        planets: ['Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'Retrograde', 'Retrograde'],
         time: [],
         sign: [],
@@ -2226,7 +2226,7 @@ var dateInfo = {
         minutes: [],
     },
     sep26: {
-        planets: ['Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'Retrograde', 'Retrograde'],
         time: [],
         sign: [],
@@ -2234,7 +2234,7 @@ var dateInfo = {
         minutes: [],
     },
     sep27: {
-        planets: ['Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'Retrograde', 'Retrograde'],
         time: [],
         sign: [],
@@ -2242,7 +2242,7 @@ var dateInfo = {
         minutes: [],
     },
     sep28: {
-        planets: ['Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'Retrograde', 'Stationary Direct'],
         time: [],
         sign: [],
@@ -2250,7 +2250,7 @@ var dateInfo = {
         minutes: [],
     },
     sep29: {
-        planets: ['Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'Retrograde', 'Direct'],
         time: [],
         sign: [],
@@ -2258,7 +2258,7 @@ var dateInfo = {
         minutes: [],
     },
     sep30: {
-        planets: ['Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'Retrograde', 'Direct'],
         time: [],
         sign: [],
@@ -2268,7 +2268,7 @@ var dateInfo = {
 
     // OCTOBER
     oct01: {
-        planets: ['Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'Retrograde', 'Direct'],
         time: [],
         sign: [],
@@ -2276,7 +2276,7 @@ var dateInfo = {
         minutes: [],
     },
     oct02: {
-        planets: ['Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'Retrograde', 'Direct'],
         time: [],
         sign: [],
@@ -2284,7 +2284,7 @@ var dateInfo = {
         minutes: [],
     },
     oct03: {
-        planets: ['Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'Retrograde', 'Direct'],
         time: [],
         sign: [],
@@ -2292,7 +2292,7 @@ var dateInfo = {
         minutes: [],
     },
     oct04: {
-        planets: ['Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'Retrograde', 'Direct'],
         time: [],
         sign: [],
@@ -2300,7 +2300,7 @@ var dateInfo = {
         minutes: [],
     },
     oct05: {
-        planets: ['Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'Retrograde', 'Direct'],
         time: [],
         sign: [],
@@ -2308,7 +2308,7 @@ var dateInfo = {
         minutes: [],
     },
     oct06: {
-        planets: ['Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'Retrograde', 'Direct'],
         time: [],
         sign: [],
@@ -2316,7 +2316,7 @@ var dateInfo = {
         minutes: [],
     },
     oct07: {
-        planets: ['Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'Retrograde', 'Direct'],
         time: [],
         sign: [],
@@ -2324,7 +2324,7 @@ var dateInfo = {
         minutes: [],
     },
     oct08: {
-        planets: ['Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'Retrograde', 'Direct'],
         time: [],
         sign: [],
@@ -2332,7 +2332,7 @@ var dateInfo = {
         minutes: [],
     },
     oct09: {
-        planets: ['Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'Retrograde', 'Direct'],
         time: [],
         sign: [],
@@ -2340,7 +2340,7 @@ var dateInfo = {
         minutes: [],
     },
     oct10: {
-        planets: ['Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'Retrograde', 'Direct'],
         time: [],
         sign: [],
@@ -2348,7 +2348,7 @@ var dateInfo = {
         minutes: [],
     },
     oct11: {
-        planets: ['Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'Retrograde', 'Direct'],
         time: [],
         sign: [],
@@ -2356,7 +2356,7 @@ var dateInfo = {
         minutes: [],
     },
     oct12: {
-        planets: ['Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'Retrograde', 'Direct'],
         time: [],
         sign: [],
@@ -2364,7 +2364,7 @@ var dateInfo = {
         minutes: [],
     },
     oct13: {
-        planets: ['Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'Retrograde', 'Direct'],
         time: [],
         sign: [],
@@ -2372,7 +2372,7 @@ var dateInfo = {
         minutes: [],
     },
     oct14: {
-        planets: ['Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'Retrograde', 'Direct'],
         time: [],
         sign: [],
@@ -2380,7 +2380,7 @@ var dateInfo = {
         minutes: [],
     },
     oct15: {
-        planets: ['Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'Retrograde', 'Direct'],
         time: [],
         sign: [],
@@ -2388,7 +2388,7 @@ var dateInfo = {
         minutes: [],
     },
     oct16: {
-        planets: ['Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'Retrograde', 'Direct'],
         time: [],
         sign: [],
@@ -2396,7 +2396,7 @@ var dateInfo = {
         minutes: [],
     },
     oct17: {
-        planets: ['Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'Retrograde', 'Direct'],
         time: [],
         sign: [],
@@ -2404,7 +2404,7 @@ var dateInfo = {
         minutes: [],
     },
     oct18: {
-        planets: ['Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'Retrograde', 'Direct'],
         time: [],
         sign: [],
@@ -2412,7 +2412,7 @@ var dateInfo = {
         minutes: [],
     },
     oct19: {
-        planets: ['Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'Retrograde', 'Direct'],
         time: [],
         sign: [],
@@ -2420,7 +2420,7 @@ var dateInfo = {
         minutes: [],
     },
     oct20: {
-        planets: ['Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'Retrograde', 'Direct'],
         time: [],
         sign: [],
@@ -2428,7 +2428,7 @@ var dateInfo = {
         minutes: [],
     },
     oct21: {
-        planets: ['Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'Retrograde', 'Direct'],
         time: [],
         sign: [],
@@ -2436,7 +2436,7 @@ var dateInfo = {
         minutes: [],
     },
     oct22: {
-        planets: ['Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'Retrograde', 'Direct'],
         time: [],
         sign: [],
@@ -2444,7 +2444,7 @@ var dateInfo = {
         minutes: [],
     },
     oct23: {
-        planets: ['Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'Retrograde', 'Direct'],
         time: [],
         sign: [],
@@ -2452,7 +2452,7 @@ var dateInfo = {
         minutes: [],
     },
     oct23: {
-        planets: ['Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'Retrograde', 'Direct'],
         time: [],
         sign: [],
@@ -2460,7 +2460,7 @@ var dateInfo = {
         minutes: [],
     },
     oct24: {
-        planets: ['Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'Retrograde', 'Direct'],
         time: [],
         sign: [],
@@ -2468,7 +2468,7 @@ var dateInfo = {
         minutes: [],
     },
     oct25: {
-        planets: ['Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'Retrograde', 'Direct'],
         time: [],
         sign: [],
@@ -2476,7 +2476,7 @@ var dateInfo = {
         minutes: [],
     },
     oct26: {
-        planets: ['Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'Retrograde', 'Direct'],
         time: [],
         sign: [],
@@ -2484,7 +2484,7 @@ var dateInfo = {
         minutes: [],
     },
     oct27: {
-        planets: ['Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'Retrograde', 'Direct'],
         time: [],
         sign: [],
@@ -2492,7 +2492,7 @@ var dateInfo = {
         minutes: [],
     },
     oct28: {
-        planets: ['Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'Retrograde', 'Direct'],
         time: [],
         sign: [],
@@ -2500,7 +2500,7 @@ var dateInfo = {
         minutes: [],
     },
     oct29: {
-        planets: ['Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'Retrograde', 'Direct'],
         time: [],
         sign: [],
@@ -2508,7 +2508,7 @@ var dateInfo = {
         minutes: [],
     },
     oct30: {
-        planets: ['Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'Retrograde', 'Direct'],
         time: [],
         sign: [],
@@ -2516,7 +2516,7 @@ var dateInfo = {
         minutes: [],
     },
     oct31: {
-        planets: ['Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'Retrograde', 'Direct'],
         time: [],
         sign: [],
@@ -2526,7 +2526,7 @@ var dateInfo = {
 
     // NOVEMBER
     nov01: {
-        planets: ['Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'Retrograde', 'Direct'],
         time: [],
         sign: [],
@@ -2534,7 +2534,7 @@ var dateInfo = {
         minutes: [],
     },
     nov02: {
-        planets: ['Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'Retrograde', 'Direct'],
         time: [],
         sign: [],
@@ -2542,7 +2542,7 @@ var dateInfo = {
         minutes: [],
     },
     nov03: {
-        planets: ['Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'Retrograde', 'Direct'],
         time: [],
         sign: [],
@@ -2550,7 +2550,7 @@ var dateInfo = {
         minutes: [],
     },
     nov04: {
-        planets: ['Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'Retrograde', 'Direct'],
         time: [],
         sign: [],
@@ -2558,7 +2558,7 @@ var dateInfo = {
         minutes: [],
     },
     nov05: {
-        planets: ['Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'Retrograde', 'Direct'],
         time: [],
         sign: [],
@@ -2566,7 +2566,7 @@ var dateInfo = {
         minutes: [],
     },
     nov06: {
-        planets: ['Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'Retrograde', 'Direct'],
         time: [],
         sign: [],
@@ -2574,7 +2574,7 @@ var dateInfo = {
         minutes: [],
     },
     nov07: {
-        planets: ['Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'Retrograde', 'Direct'],
         time: [],
         sign: [],
@@ -2582,7 +2582,7 @@ var dateInfo = {
         minutes: [],
     },
     nov08: {
-        planets: ['Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'Retrograde', 'Direct'],
         time: [],
         sign: [],
@@ -2590,7 +2590,7 @@ var dateInfo = {
         minutes: [],
     },
     nov09: {
-        planets: ['Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'Retrograde', 'Direct'],
         time: [],
         sign: [],
@@ -2598,7 +2598,7 @@ var dateInfo = {
         minutes: [],
     },
     nov10: {
-        planets: ['Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'Retrograde', 'Direct'],
         time: [],
         sign: [],
@@ -2606,7 +2606,7 @@ var dateInfo = {
         minutes: [],
     },
     nov11: {
-        planets: ['Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'Retrograde', 'Direct'],
         time: [],
         sign: [],
@@ -2614,7 +2614,7 @@ var dateInfo = {
         minutes: [],
     },
     nov12: {
-        planets: ['Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'Retrograde', 'Direct'],
         time: [],
         sign: [],
@@ -2622,7 +2622,7 @@ var dateInfo = {
         minutes: [],
     },
     nov13: {
-        planets: ['Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'Retrograde', 'Direct'],
         time: [],
         sign: [],
@@ -2630,7 +2630,7 @@ var dateInfo = {
         minutes: [],
     },
     nov14: {
-        planets: ['Mercury', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Enters RX Zone', 'Direct', 'Retrograde', 'Retrograde', 'Direct'],
         time: ['08:51 PM'],
         sign: ['Sagitarrius'],
@@ -2638,7 +2638,7 @@ var dateInfo = {
         minutes: ["00'"],
     },
     nov15: {
-        planets: ['Mercury', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['In RX Zone', 'Direct', 'Retrograde', 'Retrograde', 'Direct'],
         time: [],
         sign: [],
@@ -2646,7 +2646,7 @@ var dateInfo = {
         minutes: [],
     },
     nov16: {
-        planets: ['Mercury', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['In RX Zone', 'Direct', 'Retrograde', 'Retrograde', 'Direct'],
         time: [],
         sign: [],
@@ -2654,7 +2654,7 @@ var dateInfo = {
         minutes: [],
     },
     nov17: {
-        planets: ['Mercury', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['In RX Zone', 'Direct', 'Retrograde', 'Retrograde', 'Direct'],
         time: [],
         sign: [],
@@ -2662,7 +2662,7 @@ var dateInfo = {
         minutes: [],
     },
     nov18: {
-        planets: ['Mercury', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['In RX Zone', 'Direct', 'Retrograde', 'Retrograde', 'Direct'],
         time: [],
         sign: [],
@@ -2670,7 +2670,7 @@ var dateInfo = {
         minutes: [],
     },
     nov19: {
-        planets: ['Mercury', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['In RX Zone', 'Direct', 'Retrograde', 'Retrograde', 'Direct'],
         time: [],
         sign: [],
@@ -2678,7 +2678,7 @@ var dateInfo = {
         minutes: [],
     },
     nov20: {
-        planets: ['Mercury', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['In RX Zone', 'Direct', 'Retrograde', 'Retrograde', 'Direct'],
         time: [],
         sign: [],
@@ -2686,7 +2686,7 @@ var dateInfo = {
         minutes: [],
     },
     nov21: {
-        planets: ['Mercury', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['In RX Zone', 'Direct', 'Retrograde', 'Retrograde', 'Direct'],
         time: [],
         sign: [],
@@ -2694,7 +2694,7 @@ var dateInfo = {
         minutes: [],
     },
     nov22: {
-        planets: ['Mercury', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['In RX Zone', 'Direct', 'Retrograde', 'Stationary Direct', 'Direct'],
         time: ['06:09 AM'],
         sign: ['Pisces'],
@@ -2702,7 +2702,7 @@ var dateInfo = {
         minutes: ["28'"],
     },
     nov23: {
-        planets: ['Mercury', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['In RX Zone', 'Direct', 'Retrograde', 'Direct', 'Direct'],
         time: [],
         sign: [],
@@ -2710,7 +2710,7 @@ var dateInfo = {
         minutes: [],
     },
     nov23: {
-        planets: ['Mercury', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['In RX Zone', 'Direct', 'Retrograde', 'Direct', 'Direct'],
         time: [],
         sign: [],
@@ -2718,7 +2718,7 @@ var dateInfo = {
         minutes: [],
     },
     nov24: {
-        planets: ['Mercury', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['In RX Zone', 'Direct', 'Retrograde', 'Direct', 'Direct'],
         time: [],
         sign: [],
@@ -2726,7 +2726,7 @@ var dateInfo = {
         minutes: [],
     },
     nov25: {
-        planets: ['Mercury', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['In RX Zone', 'Direct', 'Retrograde', 'Direct', 'Direct'],
         time: [],
         sign: [],
@@ -2734,7 +2734,7 @@ var dateInfo = {
         minutes: [],
     },
     nov26: {
-        planets: ['Mercury', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['In RX Zone', 'Direct', 'Retrograde', 'Direct', 'Direct'],
         time: [],
         sign: [],
@@ -2742,7 +2742,7 @@ var dateInfo = {
         minutes: [],
     },
     nov27: {
-        planets: ['Mercury', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['In RX Zone', 'Direct', 'Retrograde', 'Direct', 'Direct'],
         time: [],
         sign: [],
@@ -2750,7 +2750,7 @@ var dateInfo = {
         minutes: [],
     },
     nov28: {
-        planets: ['Mercury', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['In RX Zone', 'Direct', 'Retrograde', 'Direct', 'Direct'],
         time: [],
         sign: [],
@@ -2758,7 +2758,7 @@ var dateInfo = {
         minutes: [],
     },
     nov29: {
-        planets: ['Mercury', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['In RX Zone', 'Direct', 'Retrograde', 'Direct', 'Direct'],
         time: [],
         sign: [],
@@ -2766,7 +2766,7 @@ var dateInfo = {
         minutes: [],
     },
     nov30: {
-        planets: ['Mercury', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['In RX Zone', 'Direct', 'Retrograde', 'Direct', 'Direct'],
         time: [],
         sign: [],
@@ -2776,7 +2776,7 @@ var dateInfo = {
 
     // DECEMBER
     dec01: {
-        planets: ['Mercury', 'Saturn', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'SATURN', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['In RX Zone', 'Leaves RX Zone', 'Retrograde', 'Direct', 'Direct'],
         time: ['01:57 PM '],
         sign: ['Sagitarrius'],
@@ -2784,7 +2784,7 @@ var dateInfo = {
         minutes: ["48'"],
     },
     dec02: {
-        planets: ['Mercury', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['In RX Zone', 'Retrograde', 'Direct', 'Direct'],
         time: [],
         sign: [],
@@ -2792,7 +2792,7 @@ var dateInfo = {
         minutes: [],
     },
     dec03: {
-        planets: ['Mercury', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Stationary Retrograde', 'Retrograde', 'Direct', 'Direct'],
         time: ['02:26 AM'],
         sign: ['Sagitarrius'],
@@ -2800,7 +2800,7 @@ var dateInfo = {
         minutes: ["18'"],
     },
     dec04: {
-        planets: ['Mercury', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Retrograde', 'Direct', 'Direct'],
         time: [],
         sign: [],
@@ -2808,7 +2808,7 @@ var dateInfo = {
         minutes: [],
     },
     dec05: {
-        planets: ['Mercury', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Retrograde', 'Direct', 'Direct'],
         time: [],
         sign: [],
@@ -2816,7 +2816,7 @@ var dateInfo = {
         minutes: [],
     },
     dec06: {
-        planets: ['Mercury', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Retrograde', 'Direct', 'Direct'],
         time: [],
         sign: [],
@@ -2824,7 +2824,7 @@ var dateInfo = {
         minutes: [],
     },
     dec07: {
-        planets: ['Mercury', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Retrograde', 'Direct', 'Direct'],
         time: [],
         sign: [],
@@ -2832,7 +2832,7 @@ var dateInfo = {
         minutes: [],
     },
     dec08: {
-        planets: ['Mercury', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Retrograde', 'Direct', 'Direct'],
         time: [],
         sign: [],
@@ -2840,7 +2840,7 @@ var dateInfo = {
         minutes: [],
     },
     dec09: {
-        planets: ['Mercury', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Retrograde', 'Direct', 'Direct'],
         time: [],
         sign: [],
@@ -2848,7 +2848,7 @@ var dateInfo = {
         minutes: [],
     },
     dec10: {
-        planets: ['Mercury', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Retrograde', 'Direct', 'Direct'],
         time: [],
         sign: [],
@@ -2856,7 +2856,7 @@ var dateInfo = {
         minutes: [],
     },
     dec11: {
-        planets: ['Mercury', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Retrograde', 'Direct', 'Direct'],
         time: [],
         sign: [],
@@ -2864,7 +2864,7 @@ var dateInfo = {
         minutes: [],
     },
     dec12: {
-        planets: ['Mercury', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Retrograde', 'Direct', 'Direct'],
         time: [],
         sign: [],
@@ -2872,7 +2872,7 @@ var dateInfo = {
         minutes: [],
     },
     dec13: {
-        planets: ['Mercury', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Retrograde', 'Direct', 'Direct'],
         time: [],
         sign: [],
@@ -2880,7 +2880,7 @@ var dateInfo = {
         minutes: [],
     },
     dec14: {
-        planets: ['Mercury', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Retrograde', 'Direct', 'Direct'],
         time: [],
         sign: [],
@@ -2888,7 +2888,7 @@ var dateInfo = {
         minutes: [],
     },
     dec15: {
-        planets: ['Mercury', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Retrograde', 'Direct', 'Direct'],
         time: [],
         sign: [],
@@ -2896,7 +2896,7 @@ var dateInfo = {
         minutes: [],
     },
     dec16: {
-        planets: ['Mercury', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Retrograde', 'Direct', 'Direct'],
         time: [],
         sign: [],
@@ -2904,7 +2904,7 @@ var dateInfo = {
         minutes: [],
     },
     dec17: {
-        planets: ['Mercury', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Retrograde', 'Direct', 'Direct'],
         time: [],
         sign: [],
@@ -2912,7 +2912,7 @@ var dateInfo = {
         minutes: [],
     },
     dec18: {
-        planets: ['Mercury', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Retrograde', 'Direct', 'Direct'],
         time: [],
         sign: [],
@@ -2920,7 +2920,7 @@ var dateInfo = {
         minutes: [],
     },
     dec19: {
-        planets: ['Mercury', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Retrograde', 'Direct', 'Direct'],
         time: [],
         sign: [],
@@ -2928,7 +2928,7 @@ var dateInfo = {
         minutes: [],
     },
     dec20: {
-        planets: ['Mercury', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Retrograde', 'Direct', 'Direct'],
         time: [],
         sign: [],
@@ -2936,7 +2936,7 @@ var dateInfo = {
         minutes: [],
     },
     dec21: {
-        planets: ['Mercury', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Retrograde', 'Retrograde', 'Direct', 'Direct'],
         time: [],
         sign: [],
@@ -2944,7 +2944,7 @@ var dateInfo = {
         minutes: [],
     },
     dec22: {
-        planets: ['Mercury', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Stationary Direct', 'Retrograde', 'Direct', 'Direct'],
         time: ['08:50 PM'],
         sign: ['Sagitarrius'],
@@ -2952,7 +2952,7 @@ var dateInfo = {
         minutes: ["00'"],
     },
     dec23: {
-        planets: ['Mercury', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'Direct', 'Direct'],
         time: [],
         sign: [],
@@ -2960,7 +2960,7 @@ var dateInfo = {
         minutes: [],
     },
     dec23: {
-        planets: ['Mercury', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'Direct', 'Direct'],
         time: [],
         sign: [],
@@ -2968,7 +2968,7 @@ var dateInfo = {
         minutes: [],
     },
     dec24: {
-        planets: ['Mercury', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'Direct', 'Direct'],
         time: [],
         sign: [],
@@ -2976,7 +2976,7 @@ var dateInfo = {
         minutes: [],
     },
     dec25: {
-        planets: ['Mercury', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'Direct', 'Direct'],
         time: [],
         sign: [],
@@ -2984,7 +2984,7 @@ var dateInfo = {
         minutes: [],
     },
     dec26: {
-        planets: ['Mercury', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'Direct', 'Direct'],
         time: [],
         sign: [],
@@ -2992,7 +2992,7 @@ var dateInfo = {
         minutes: [],
     },
     dec27: {
-        planets: ['Mercury', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'Direct', 'Direct'],
         time: [],
         sign: [],
@@ -3000,7 +3000,7 @@ var dateInfo = {
         minutes: [],
     },
     dec28: {
-        planets: ['Mercury', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'Direct', 'Direct'],
         time: [],
         sign: [],
@@ -3008,7 +3008,7 @@ var dateInfo = {
         minutes: [],
     },
     dec29: {
-        planets: ['Mercury', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'Direct', 'Direct'],
         time: [],
         sign: [],
@@ -3016,7 +3016,7 @@ var dateInfo = {
         minutes: [],
     },
     dec30: {
-        planets: ['Mercury', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'Direct', 'Direct'],
         time: [],
         sign: [],
@@ -3024,7 +3024,7 @@ var dateInfo = {
         minutes: [],
     },
     dec31: {
-        planets: ['Mercury', 'Uranus', 'Neptune', 'Pluto'],
+        planets: ['MERCURY', 'URANUS', 'NEPTUNE', 'PLUTO'],
         direction: ['Direct', 'Retrograde', 'Direct', 'Direct'],
         time: [],
         sign: [],
