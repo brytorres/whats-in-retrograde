@@ -32,6 +32,7 @@ function numToMon(monthNum){
 
 // Generate todays date into string for comparison
 var today = numToMon(monthNum) + currentDateDay;
+console.log(today);
 
 // Fetch current retrograde data
 function fetchRetrograde(){
@@ -55,47 +56,44 @@ function fetchRetrograde(){
         var minutes = dateInfo[key].minutes;
 
         for(var i = 0; i < planets.length;i++){
-            // if(typeof(time[i] == undefined)){
-            //     var time = ['', 'No Transition Occuring', 'No Transition Occuring', 'No Transition Occuring', 'No Transition Occuring', 'No Transition Occuring', 'No Transition Occuring', 'No Transition Occuring', 'No Transition Occuring', ];
-            // } if(typeof(sign == undefined)){
-            //     var sign = [''];
-            // } if(typeof(degress == undefined)){
-            //     var degress = '';
-            // } if(typeof(minutes == undefined)){
-            //     var minutes = '';
-            // }
+            if(typeof(time[i] == undefined)){
+                var time = ['No Event Today', 'No Event Today', 'No Event Today', 'No Event Today', 'No Event Today', 'No Event Today', 'No Event Today', 'No Event Today', 'No Event Today'];
+            } if(typeof(sign == undefined)){
+                var sign = ['No Event Today', 'No Event Today', 'No Event Today', 'No Event Today', 'No Event Today', 'No Event Today', 'No Event Today', 'No Event Today', 'No Event Today'];
+            } if(typeof(degrees == undefined)){
+                var degrees = ['No Event Today', 'No Event Today', 'No Event Today', 'No Event Today', 'No Event Today', 'No Event Today', 'No Event Today', 'No Event Today', 'No Event Today'];
+            } if(typeof(minutes == undefined)){
+                var minutes = ['No Event Today', 'No Event Today', 'No Event Today', 'No Event Today', 'No Event Today', 'No Event Today', 'No Event Today', 'No Event Today', 'No Event Today'];
+            }
             currentlyRetrograde.innerHTML +=    '<div class="well">' +
-                                                '<h3>' +planets[i]+ '<h3>' + '<br>' + '<br>' +
-                                                '<p>' +direction[i]+ '</p>' + '<br>' +
-                                                '<p>' +time[i]+ '</p>' + '<br>' +
-                                                '<p>' +sign[i]+ '</p>' + '<br>' +
-                                                '<p>' +degrees[i]+ '</p>' + '<br>' +
-                                                '<p>' +minutes[i]+ '</p>' + '<br>' + 
+                                                '<h3>' +planets[i]+ '</h3>' + 
+                                                '<table style="width: 100%; font-size: 14px;color: white;">' +
+                                                    '<tr>' +
+                                                        '<th>' +'Direction'+ '</th>' +
+                                                        '<th>' +'Time'+ '</th>' +
+                                                        '<th>' +'Degrees'+ '</th>' +
+                                                        '<th>' +'Sign'+ '</th>' +
+                                                        '<th>' +'Minutes'+ '</th>' +
+                                                    '</tr>' +
+                                                    '<tr>' +
+                                                        '<td>' +direction[i]+ '</td>' +
+                                                        '<td>' +time[i]+ '</td>'  +
+                                                        '<td>' +degrees[i]+ '</td>' +
+                                                        '<td>' +sign[i]+ '</td>' +
+                                                        '<td>' +minutes[i]+ '</td>' +
+                                                    '</tr>' +
+                                                '</table>'
+                                                // '<p>' +direction[i]+ '</p>' + '<br>' +
+                                                // '<p>' +time[i]+ '</p>' + '<br>' +
+                                                // '<p>' +sign[i]+ '</p>' + '<br>' +
+                                                // '<p>' +degrees[i]+ '</p>' + '<br>' +
+                                                // '<p>' +minutes[i]+ '</p>' + '<br>' + 
                                                 '</div>'
                                                 
             
         }
     }
-        // var planet = dateInfo[i].planet;
-    //     var direction = dateInfo[i].direction;
-    //     var time = dateInfo[i].time;
-    //     var sign = dateInfo[i].sign;
-    //     var degrees = dateInfo[i].degrees;
-    //     var minutes = dateInfo[i].minutes;
-
-    //     bookmarksResults.innerHTML +=   '<div class="well">' +
-    //                                     '<h3>' +planet+ '<h3>' + '<br>' + '<br>' +
-    //                                     '<p>' +direction+ '</p>' + '<br>' +
-    //                                     '<p>' +time+ '</p>' + '<br>' +
-    //                                     '<p>' +sign+ '</p>' + '<br>' +
-    //                                     '<p>' +degrees+ '</p>' + '<br>' +
-    //                                     '<p>' +minutes+ '</p>' + '<br>'
-    //     // Match today with interation results
-            
-    //         // 
-    // }
 }
-
 
 // Fetch planets currently in retrograde
 function currentlyRetrograde(){
