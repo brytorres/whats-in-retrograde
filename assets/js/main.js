@@ -1,8 +1,14 @@
-// Fetch retrograde dateInfo for whole file.
-// $.getScript('/assets/js/retrogradeData.js', function(){
+// Listen for form submit - FIX
+// document.getElementById('dateForm').addEventListener('submit', byDateResults);
 
-// Listen for form submit
-// document.getElementById('retrogradeResults').addEventListener('submit', saveBookmark);
+// function byDateResults(d){
+//     var today = document.getElementById('date').value;
+//     console.log(today);
+//     if(!validateForm(date)){
+//         return false;
+//     }
+//     fetchRetrograde(today);
+// }
 
 // Display current time and date as [xx-xx-xxxx]
 var currentDate = new Date();
@@ -36,16 +42,16 @@ var today = numToMon(monthNum) + currentDateDay;
 
 // Fetch current retrograde data
 function fetchRetrograde(date){
+
     // Get Output ID
     var currentlyRetrograde = document.getElementById('currentlyRetrograde');
     var todayInfo = document.getElementById('todayInfo');
 
     // Display the dates info
-    todayInfo.innerHTML = '<h4 class="todayInfo">' + currentDateClean + '</h4>';
+    todayInfo.innerHTML = '<h4 class="todayInfo">' + currentDateClean + ' UTC </h4>';
 
     // Build Output
     currentlyRetrograde.innerHTML = '';
-    console.log(today);
 
     // Iterate through all dates
     for(var key in dateInfo){
@@ -126,25 +132,6 @@ function fetchRetrograde(date){
     }
 }
 
-// Fetch planets currently in retrograde
-function currentlyRetrograde(){
-}
-
+// Fetch planets moving into in stationary retrograde
 function nextRetrogrades(){
-
 }
-
-function byDateResults(){
-
-}
-
-// Validate form
-// function validateForm(date, planet){
-//     if(!date || !planet){
-//         alert('Please fill in the form.');
-//         return false;
-
-//     // Regex needed?   
-//     return true;
-// }
-// });
