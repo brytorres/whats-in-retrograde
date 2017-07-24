@@ -21,9 +21,10 @@
 <body onload="fetchRetrograde()">
     
     <div>
+        <!-- Left Sidebox -->
         <div class="row sidebox">
             <div class="col-md-3" style="margin-right: -10px">
-                <h1 class=" title" style="font-size: 50px">What's In<br>Retrograde?</h1>
+                <h1 class="title" style="font-size: 50px">What's In<br>Retrograde?</h1>
                 <div class="info" style="padding-left: 10px">
                     <p>What does is mean when a planet goes retrograde? Retrograde motion is the apparent reversal of a planets path in the sky. The key is understanding that it does not mean the planet ACTUALLY moves backwards in its orbit. It just appears to do so because of the relative positions of the planet being observed, Earth and how they move around the Sun. <a href="https://starchild.gsfc.nasa.gov/docs/StarChild/questions/question46.html">CLICK HERE</a> to find out more how this occurs.</p>
                     <p>Apart from the astronomical meaning of retrograde movement, there is also an astrological significance. Sometimes things tend to go haywire in our lives without any apparent reason. Looking up at the sky may provide you with a possible reason why. Many have encountered the effects of this occurrence, leading a different view about how planets interact with us. When a planet is retrograde, its energies seem to affect us in a different way and are turned inward and becomes more subjective.</p>
@@ -32,10 +33,12 @@
                 </div>
             </div>
             <div class="col-md-9" style="border-width: 1px; margin-right: -25px;">
-
+                 
+                 <!-- Planets List -->
                 <div style="margin-left: -10px">
                     <h2 class="topheader">PLANETS IN RETROGRADE ZONE</h2>
                     <hr>
+                    <!-- Timeline Explanation -->
                     <p style="text-align: center;">Below is a visual represenation of the 7 points of the retograde timeline.</p>
                     <img src="/assets/img/retroTimeline.png" alt="Retrograde Timeline" class="centerimg">
                     
@@ -43,17 +46,19 @@
 
                     <div class="row">
                         <div class="col-lg-12">
+                            <!-- Todays Date -->
                             <div id="todayInfo"></div>
                             <p style="text-align: right; font-size: 10px">*SYMBOL KEY PROVIDED BELOW</p>
                         </div>
                         <div class="col-lg-12">
-                            
+                            <!-- Planet Data JS Output -->
                             <div id="currentlyRetrograde"></div>
                         </div>
                     </div>
                     
                     <br>
                     <hr>
+                    <!-- Symbol Key -->
                     <p style="text-align: center;"><strong>SYMBOL KEY</strong></p>
                     <div class="row" style="text-align: center;">
                         <div class="col-md-3">
@@ -92,35 +97,21 @@
                             <img class="key" src="/assets/img/noEvent.png" alt="No Event">
                         </div>
                     </div>
-
-                    <!-- <div class="row marketing">
-                        <div class="col-lg-12">
-                            <h2>Retrogrades Coming Next</h2>    
-                            <div id="nextRetrogrades"></div>
-                        </div>
-                    </div>
-                    </div>
-                    <div class="row marketing">
-                        <div class="col-lg-12">
-                            <h2>Retrograde Info By Date</h2>
-                            <div id="byDateResults"></div>
-                        </div>
-                    </div> -->
                 </div>
             </div>
         </div>      
     </div>
 
-<footer class="footer">
-<h5>What's In Retrograde?</h5>
-<p>&copy; 2017 Bryan Torres - Torvel, Inc.</p>
-</footer>
+    <footer class="footer">
+        <h5>What's In Retrograde?</h5>
+        <p>&copy; 2017 Bryan Torres - Torvel, Inc.</p>
+    </footer>
 
-<!-- Bootstrap and jQuery -->
-<script src="https://code.jquery.com/jquery-3.2.1.js" integrity="sha256-DZAnKJ/6XZ9si04Hgrsxu/8s717jcIzLy3oi35EouyE=" crossorigin="anonymous"></script>
-<script src="assets/js/bootstrap.min.js"></script>
-<script src="assets/js/retrogradeData.js"></script>
-<script src="assets/js/app.min.js"></script>
+    <!-- Bootstrap and jQuery -->
+    <script src="https://code.jquery.com/jquery-3.2.1.js" integrity="sha256-DZAnKJ/6XZ9si04Hgrsxu/8s717jcIzLy3oi35EouyE=" crossorigin="anonymous"></script>
+    <script src="assets/js/bootstrap.min.js"></script>
+    <script src="assets/js/retrogradeData.js"></script>
+    <script src="assets/js/app.min.js"></script>
 
 </body>
 </html>

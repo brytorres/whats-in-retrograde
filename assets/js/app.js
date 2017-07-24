@@ -1,6 +1,7 @@
 // Listen for form submit - FIX
 // document.getElementById('dateForm').addEventListener('submit', byDateResults);
 
+// Pass date info from form and fetch retrograde data from that - FIX
 // function byDateResults(d){
 //     var today = document.getElementById('date').value;
 //     console.log(today);
@@ -13,9 +14,10 @@
 // Display current time and date as [xx-xx-xxxx]
 var currentDate = new Date();
 var currentDateMonth = currentDate.getMonth();
-var monthNum = parseInt(currentDateMonth);
+var monthNum = parseInt(currentDateMonth); // Variable used for numToMon function... needed int
 var currentDateDay = currentDate.getUTCDate();
 var currentDateYear = currentDate.getUTCFullYear();
+// Combine parts to create clean date string
 var currentDateClean = (currentDateMonth+1) + '-' + currentDateDay + '-' + currentDateYear;
 
 // Month number to string
@@ -39,18 +41,17 @@ function numToMon(monthNum){
 // Generate todays date into string for comparison
 var today = numToMon(monthNum) + currentDateDay;
 
-
 // Fetch current retrograde data
 function fetchRetrograde(date){
 
-    // Get Output ID
+    // Get Output IDs
     var currentlyRetrograde = document.getElementById('currentlyRetrograde');
-    var todayInfo = document.getElementById('todayInfo');
+    var todayInfo = document.getElementById('todayInfo'); 
 
     // Display the dates info
     todayInfo.innerHTML = '<h4 class="todayInfo">' + currentDateClean + ' UTC </h4>';
 
-    // Build Output
+    // Build Page Output
     currentlyRetrograde.innerHTML = '';
 
     // Iterate through all dates
@@ -68,13 +69,12 @@ function fetchRetrograde(date){
 
             for(var i = 0; i < planets.length;i++){
 
-                
                 // Generates planet direction image tag based on direction string
                 var directionToday = direction[i];
-                if(directionToday === 'Entering RX Zone'){
+                if(directionToday === 'Entering Rx Zone'){
                     var directionImg = '<img src="/assets/img/enters.png" alt="Entering RX Zone">';
                 }
-                if(directionToday === 'In RX Zone'){
+                if(directionToday === 'In Rx Zone'){
                     var directionImg = '<img src="/assets/img/inZone.png" alt="In RX Zone">';
                 }
                 if(directionToday === 'Stationary Retrograde'){
@@ -89,7 +89,7 @@ function fetchRetrograde(date){
                 if(directionToday === 'Direct'){
                     var directionImg = '<img src="/assets/img/direct.png" alt="Direct">';
                 }
-                if(directionToday === 'Leaves RX Zone'){
+                if(directionToday === 'Leaves Rx Zone'){
                     var directionImg = '<img src="/assets/img/leaving.png" alt="Leaves RX Zone">';
                 }
 
@@ -121,17 +121,12 @@ function fetchRetrograde(date){
                                                         '<td>' +minutes[i]+ '</td>' +
                                                     '</tr>' +
                                                 '</table>'
-                                                // '<p>' +direction[i]+ '</p>' + '<br>' +
-                                                // '<p>' +time[i]+ '</p>' + '<br>' +
-                                                // '<p>' +sign[i]+ '</p>' + '<br>' +
-                                                // '<p>' +degrees[i]+ '</p>' + '<br>' +
-                                                // '<p>' +minutes[i]+ '</p>' + '<br>' + 
                                                 '</div>'
             }
         }
     }
 }
 
-// Fetch planets moving into in stationary retrograde
+// Fetch planets moving into in stationary retrograde - TODO
 function nextRetrogrades(){
 }
