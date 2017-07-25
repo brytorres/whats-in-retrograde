@@ -62,6 +62,7 @@ function fetchRetrograde(date){
             }
             var planets = dateInfo[key].planets;
             var direction = dateInfo[key].direction;
+            console.log(direction);
             var time = dateInfo[key].time;
             var sign = dateInfo[key].sign;
             var degrees = dateInfo[key].degrees;
@@ -71,10 +72,10 @@ function fetchRetrograde(date){
 
                 // Generates planet direction image tag based on direction string
                 var directionToday = direction[i];
-                if(directionToday === 'Entering Rx Zone'){
+                if(directionToday === 'Entering &#8478; Zone'){
                     var directionImg = '<img src="/assets/img/enters.png" alt="Entering RX Zone">';
                 }
-                if(directionToday === 'In Rx Zone'){
+                if(directionToday === 'In &#8478; Zone'){
                     var directionImg = '<img src="/assets/img/inZone.png" alt="In RX Zone">';
                 }
                 if(directionToday === 'Stationary Retrograde'){
@@ -89,7 +90,7 @@ function fetchRetrograde(date){
                 if(directionToday === 'Direct'){
                     var directionImg = '<img src="/assets/img/direct.png" alt="Direct">';
                 }
-                if(directionToday === 'Leaves Rx Zone'){
+                if(directionToday === 'Leaves &#8478; Zone'){
                     var directionImg = '<img src="/assets/img/leaving.png" alt="Leaves RX Zone">';
                 }
 
